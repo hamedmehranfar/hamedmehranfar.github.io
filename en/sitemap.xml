@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hamedmehranfar.github.io/categories/</loc>
-    <lastmod>2024-01-12T08:22:55+01:00</lastmod>
+    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://hamedmehranfar.github.io/category/eth/</loc>
-    <lastmod>2024-01-12T08:22:55+01:00</lastmod>
+    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -29,6 +29,80 @@
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/category/eth/"
                 />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/tag/intervention-strategies/</loc>
+    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/intervention-strategies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/intervention-strategies/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/tag/management/</loc>
+    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/management/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/post/</loc>
+    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/post/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/tag/railway-infrastructure/</loc>
+    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/railway-infrastructure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/railway-infrastructure/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/tags/</loc>
+    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb/</loc>
+    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/failure-risks/</loc>
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
@@ -46,20 +120,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/infrastructure-management/"
-                />
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/post/</loc>
-    <lastmod>2024-01-12T08:22:55+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/post/"
                 />
   </url><url>
     <loc>https://hamedmehranfar.github.io/post/spring-semester-2024/</loc>
@@ -80,20 +140,6 @@
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/tags/</loc>
-    <lastmod>2024-01-12T08:22:55+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tags/"
-                />
-  </url><url>
     <loc>https://hamedmehranfar.github.io/category/conferences/</loc>
     <lastmod>2023-12-22T16:17:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -105,20 +151,6 @@
     <loc>https://hamedmehranfar.github.io/talk/participating-in-tra-2024/</loc>
     <lastmod>2023-12-22T16:17:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/tag/railway-infrastructure/</loc>
-    <lastmod>2023-12-22T16:17:58+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/railway-infrastructure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/railway-infrastructure/"
-                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/stability/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
@@ -201,20 +233,6 @@
     <loc>https://hamedmehranfar.github.io/tag/maintenance-inspection/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/tag/management/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/management/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/management/"
-                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/planning-scheduling/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
@@ -404,20 +422,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/intervention-programs/"
-                />
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/tag/intervention-strategies/</loc>
-    <lastmod>2023-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/intervention-strategies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/intervention-strategies/"
                 />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/optimisation/</loc>
