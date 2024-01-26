@@ -1,0 +1,46 @@
+---
+abstract: This paper aims to identify and evaluate the bottlenecks and wastes in the loading, unloading, and in-transit processes of iron ore railcars using simulation. A field survey was conducted in one of the largest steel factories and a mine, and each process time was extracted using the work-study and time-study methods. The data for more than 34 thousand railcars were collected from the database of the steel company, Iran Rail Transport company, and a private rail transport company. Seven scenarios have been developed according to (a) operations management, (b) equipment procurement, and (c) infrastructure development. It was found that utilization of the automated loading system would improve performance by 20%. This causes a 24% increase in railcars’ turnover, which means obtaining US$10,000 additional income per railcar. It was expected, it would improve performance. Conversely, adding a railcar tippler and developing the tracks reduces performance.
+
+# author_notes:
+# - Equal contribution
+# - Equal contribution
+authors:
+- admin
+- Morteza Bagheri
+- S. Alireza Seyedvakili
+- Melody Khadem Sameni
+date: "2021-06-24T00:00:00Z"
+doi: "10.1177/00375497211023570"
+featured: false
+image:
+  caption: 'Image credit: [**Simulation**](https://journals.sagepub.com/doi/10.1177/00375497211023570)'
+  focal_point: ""
+  preview_only: false
+projects: ["Cargo for Rail"]
+publication: 'Simulation'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2021-06-24T00:00:00Z"
+slides: ""
+summary: This paper aims to identify and evaluate the bottlenecks and wastes in the loading, unloading, and in-transit processes of iron ore railcars using simulation...
+tags:
+- Cargo for Rail
+- Simulation
+- Freight
+- Heavy-haul
+- Railway
+- Operation Policies
+- Lean Railroading
+title: Improving operational efficiency of iron ore logistics by rail using simulation
+# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_dataset: ""
+# url_pdf: ""
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
+# url_source: ""
+# url_video: ""
+---
+
+

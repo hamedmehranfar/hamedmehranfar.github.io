@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schlankheiteisenbahnsysteme | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/de/tag/schlankheiteisenbahnsysteme/</link>
+      <atom:link href="https://hamedmehranfar.github.io/de/tag/schlankheiteisenbahnsysteme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Schlankheiteisenbahnsysteme</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Schlankheiteisenbahnsysteme</title>
+      <link>https://hamedmehranfar.github.io/de/tag/schlankheiteisenbahnsysteme/</link>
+    </image>
+    
+    <item>
+      <title>Improving Efficiency of Mineral Terminal Performance using Lean Railroading</title>
+      <link>https://hamedmehranfar.github.io/de/publication/journal-article-3/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cargo for Rail</title>
+      <link>https://hamedmehranfar.github.io/de/project/cargo-for-rail/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/project/cargo-for-rail/</guid>
+      <description>&lt;p&gt;In diesem Projekt wurde eine Entscheidungshilfe entwickelt, um die Entscheidungsfindung über die Durchführung verschiedener Strategien zur Verbesserung der Effizienz von Operationen im Zusammenhang mit der Eisenbahnlogistik von Mineralgütern zu verbessern. Das Projekt analysiert die aktuelle Situation und bewertet mehrere Verbesserungskonzepte mittels Ereignisorientierter Simulation unter Verwendung der Software &lt;a href=&#34;https://www.interdynamics.com/decision-support-software-solutions/planimate-simulation-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planimate©&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

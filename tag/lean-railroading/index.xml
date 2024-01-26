@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lean Railroading | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/tag/lean-railroading/</link>
+      <atom:link href="https://hamedmehranfar.github.io/tag/lean-railroading/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lean Railroading</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Lean Railroading</title>
+      <link>https://hamedmehranfar.github.io/tag/lean-railroading/</link>
+    </image>
+    
+    <item>
+      <title>Improving Efficiency of Mineral Terminal Performance using Lean Railroading</title>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-3/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cargo for Rail</title>
+      <link>https://hamedmehranfar.github.io/project/cargo-for-rail/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/project/cargo-for-rail/</guid>
+      <description>&lt;p&gt;In this project a a decision aiding tool was developed for improving the decision making about the taking different operation policies on how to improve the efficiency of operations related to logistics of mineral cargo with rail. The project analyses the current situation and assessed multiple improvement policies using discrete event simulation in &lt;a href=&#34;https://www.interdynamics.com/decision-support-software-solutions/planimate-simulation-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planimate©&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

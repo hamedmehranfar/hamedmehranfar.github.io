@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Railway | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/tag/railway/</link>
+      <atom:link href="https://hamedmehranfar.github.io/tag/railway/index.xml" rel="self" type="application/rss+xml" />
+    <description>Railway</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Railway</title>
+      <link>https://hamedmehranfar.github.io/tag/railway/</link>
+    </image>
+    
+    <item>
+      <title>Automated early estimation of bridge interventions, possession windows and costs</title>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-5/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benders decomposition to accelerate determination of optimal railway intervention programmes</title>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-2/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient early estimates of bridge interventions:Costs, required possession times and associated failure risks</title>
+      <link>https://hamedmehranfar.github.io/publication/conference-paper-1/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/publication/conference-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of bridge component condition states with varying data availability</title>
+      <link>https://hamedmehranfar.github.io/publication/conference-paper-3/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/publication/conference-paper-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation at ILACCE 2023</title>
+      <link>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;OpenStreetMap with Leaflet&lt;/title&gt;
+    &lt;meta charset=&#34;utf-8&#34; /&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.css&#34; integrity=&#34;sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==&#34; crossorigin=&#34;&#34;/&gt;
+    &lt;style&gt;
+        #map {
+            height: 400px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
+    &lt;script src=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.js&#34; integrity=&#34;sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==&#34; crossorigin=&#34;&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;
+        var map = L.map(&#39;map&#39;).setView([45.478093, 9.2245326], 16);
+        L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, {
+            attribution: &#39;Map data © &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,
+            maxZoom: 18,
+        }).addTo(map);
+        var marker = L.marker([45.478093, 9.2245326]).addTo(map);
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h2 id=&#34;ialcce-2023&#34;&gt;IALCCE 2023&lt;/h2&gt;
+&lt;p&gt;It was a great chance to get to know brilliant people working on different aspects of civil engineering. In our special session, we had 6 speakers and had a fruitful discussion after each presentation. The topics presented in the special session include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Decentralized control-based intervention policies for road networks&lt;/em&gt; by &lt;strong&gt;Y. Nakazato&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Efficient early estimates of bridge interventions: costs, required possession times and associated failure risks&lt;/em&gt; by &lt;strong&gt;H. Mehranfar&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Estimation of bridge component condition states with varying data availability&lt;/em&gt; by &lt;strong&gt;S. Chuo&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;State-of-the-art in the use of responsive systems for the built environment&lt;/em&gt; by &lt;strong&gt;C. Martani&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Digital twins in construction practice — A use case driven implementation based on existing theory&lt;/em&gt; by &lt;strong&gt;I. Zinke&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Advanced life-cycle assessment of reinforced concrete bridges using digital twin&lt;/em&gt; by &lt;strong&gt;J. Rymeš&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STABILITY</title>
+      <link>https://hamedmehranfar.github.io/project/stability/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/project/stability/</guid>
+      <description>&lt;p&gt;The future of rail transport will be one where trains carrying passengers and goods flow seamlessly from their origins to their destinations. Potential disruptions due to train incidents will be foreseen with the extensive use of surveillance technologies, and either prevented through the implementation of detailed action plans or their consequences eliminated with the seamless rerouting of trains. Interventions on the infrastructure, whether it be the grinding of tracks, or expansion of train stations, will be carried out in perfectly allotted slots in train
+schedules. Train schedules will be stable and the use of train schedule reserves will be maximized.&lt;/p&gt;
+&lt;p&gt;STABILITY will develop tools to enable the realization of the latter part of this future. It will include the development of a new integrated train schedule – intervention planning process that enables the optimal exploitation of digital tools.
+This process will&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;enable the use of mathematical models built using state‐of‐the‐art concepts, i.e.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;mixed integer linear programming models or heuristics to determine the optimal work to be performed at predefined times in train schedules on assets considering asset specific characteristics,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dynamic Bayesian networks to predict the future asset states and their levels of uncertainty, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;multivariate Kriging to ensure correct estimates of current asset states when there are incomplete data sets,&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;include the automated transfer of asset and intervention specific information contained in multiple databases at specific time points to facilitate the running of the mathematical models to generate idealized windows for interventions, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;include the automated recalculation of the exact activities to ensure train schedule stability between the fixed windows, with increasing levels of exactitude as the windows near. STABILITY will enable a digital revolution in railway intervention planning that will help ensure
+both train schedule stability and the maximum use of train schedule reserves.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Major Factor Affecting Freight Train Collision Severity At Road-Rail Level Crossing Using Multinomial Logit Model</title>
+      <link>https://hamedmehranfar.github.io/publication/conference-paper-2/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Efficiency of Mineral Terminal Performance using Lean Railroading</title>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-3/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Analysis of Stationary Rail Cars Containing Hazardous Materials; A Case Study</title>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-4/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

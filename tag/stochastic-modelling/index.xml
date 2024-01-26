@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic Modelling | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/tag/stochastic-modelling/</link>
+      <atom:link href="https://hamedmehranfar.github.io/tag/stochastic-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stochastic Modelling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Stochastic Modelling</title>
+      <link>https://hamedmehranfar.github.io/tag/stochastic-modelling/</link>
+    </image>
+    
+    <item>
+      <title>STABILITY</title>
+      <link>https://hamedmehranfar.github.io/project/stability/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/project/stability/</guid>
+      <description>&lt;p&gt;The future of rail transport will be one where trains carrying passengers and goods flow seamlessly from their origins to their destinations. Potential disruptions due to train incidents will be foreseen with the extensive use of surveillance technologies, and either prevented through the implementation of detailed action plans or their consequences eliminated with the seamless rerouting of trains. Interventions on the infrastructure, whether it be the grinding of tracks, or expansion of train stations, will be carried out in perfectly allotted slots in train
+schedules. Train schedules will be stable and the use of train schedule reserves will be maximized.&lt;/p&gt;
+&lt;p&gt;STABILITY will develop tools to enable the realization of the latter part of this future. It will include the development of a new integrated train schedule – intervention planning process that enables the optimal exploitation of digital tools.
+This process will&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;enable the use of mathematical models built using state‐of‐the‐art concepts, i.e.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;mixed integer linear programming models or heuristics to determine the optimal work to be performed at predefined times in train schedules on assets considering asset specific characteristics,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dynamic Bayesian networks to predict the future asset states and their levels of uncertainty, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;multivariate Kriging to ensure correct estimates of current asset states when there are incomplete data sets,&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;include the automated transfer of asset and intervention specific information contained in multiple databases at specific time points to facilitate the running of the mathematical models to generate idealized windows for interventions, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;include the automated recalculation of the exact activities to ensure train schedule stability between the fixed windows, with increasing levels of exactitude as the windows near. STABILITY will enable a digital revolution in railway intervention planning that will help ensure
+both train schedule stability and the maximum use of train schedule reserves.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
