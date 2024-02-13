@@ -5,7 +5,7 @@
     <link>https://hamedmehranfar.github.io/de/category/doktorat/</link>
       <atom:link href="https://hamedmehranfar.github.io/de/category/doktorat/index.xml" rel="self" type="application/rss+xml" />
     <description>Doktorat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Fri, 09 Feb 2024 07:00:58 +0100</lastBuildDate>
     <image>
       <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
       <title>Doktorat</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Teilnahme an der IABMAS 2024</title>
       <link>https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-iabmas-2024/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Feb 2024 07:00:58 +0100</pubDate>
       <guid>https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-iabmas-2024/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -63,60 +63,6 @@
 &lt;p&gt;Ich freue mich, Ihnen mitteilen zu können, dass ich an der 12. Internationalen Konferenz über Brückeninstandhaltung, -sicherheit und -management (IABMAS 2024) teilnehmen werde, die vom 24. bis 28. Juni 2024 in Kopenhagen, Dänemark, stattfinden wird. Meine Kollegen und ich veranstalten dort eine &lt;a href=&#34;https://iabmas2024.dk/technical-programme/special-session&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sondersitzung&lt;/a&gt;. Ich präsentiere auch ein Papier mit dem Titel &amp;ldquo;&lt;strong&gt;Verbesserung der Übersichten über Brückeneingriffe, Besitzfenster und Kosten&lt;/strong&gt;&amp;rdquo;. Darin diskutieren wir, wie die Integration von Building Information Modeling (BIM) und prädiktive Unterhaltsmodelle für das Brückenmanagement nützlich sein kann.&lt;/p&gt;
 &lt;p&gt;Ich freue mich darauf, unsere Arbeit auf der Konferenz zu präsentieren und Feedback von den Experten auf diesem Gebiet zu erhalten. Ich freue mich auch darauf, vertraute Forscher wiederzutreffen und neue kennenzulernen, die meine Leidenschaft für das Brückenbauwesen teilen.&lt;/p&gt;
 &lt;p&gt;Ich hoffe, Sie in Kopenhagen zu sehen!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teilnahme an der TRA 2024</title>
-      <link>https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-tra-2024/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-tra-2024/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;title&gt;OpenStreetMap with Leaflet&lt;/title&gt;
-    &lt;meta charset=&#34;utf-8&#34; /&gt;
-    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.css&#34; integrity=&#34;sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==&#34; crossorigin=&#34;&#34;/&gt;
-    &lt;style&gt;
-        #map {
-            height: 400px;
-        }
-    &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
-    &lt;script src=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.js&#34; integrity=&#34;sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==&#34; crossorigin=&#34;&#34;&gt;&lt;/script&gt;
-    &lt;script&gt;
-        var map = L.map(&#39;map&#39;).setView([53.325863871166106, -6.22925877571106], 16);
-        L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, {
-            attribution: &#39;Map data © &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,
-            maxZoom: 18,
-        }).addTo(map);
-        var marker = L.marker([53.325863871166106, -6.22925877571106]).addTo(map);
-        marker.setIcon(new L.Icon({
-            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png&#39;,
-            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            shadowSize: [41, 41]
-        }));
-        marker.setIcon(new L.Icon({
-            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png&#39;,
-            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            shadowSize: [41, 41]
-        }));
-    &lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-&lt;h2 id=&#34;transport-research-arena-tra&#34;&gt;Transport Research Arena (TRA)&lt;/h2&gt;
-&lt;p&gt;Ich werde an der Transport Research Arena 2024 (TRA2024) teilnehmen, der grössten europäischen Forschungs- und Innovationskonferenz zu Verkehr und Mobilität. Ich werde unsere Forschung mit dem Titel &amp;ldquo;&lt;em&gt;&lt;strong&gt;Improving the planning of future track interventions using digital tools&lt;/strong&gt;&lt;/em&gt;&amp;rdquo; präsentieren, die einen Teil des Forschungsprojekts STABILITY darstellt. Darin wird aufgezeigt, wie digitale Werkzeuge zur Verbesserung der Planung künftiger Gleisbauarbeiten eingesetzt werden können.&lt;/p&gt;
-&lt;p&gt;Ich freue mich darauf, Experten aus Wissenschaft und Industrie zu treffen und Ideen auszutauschen. Ich freue mich auch darauf, die neuesten Entwicklungen und Innovationen im Verkehrssektor aus nächster Nähe kennen zu lernen, mein Netzwerk zu erweitern und neue Möglichkeiten der Zusammenarbeit zu erkunden.&lt;/p&gt;
-&lt;p&gt;Ich hoffe, Sie in Dublin zu sehen!&lt;/p&gt;
 </description>
     </item>
     
