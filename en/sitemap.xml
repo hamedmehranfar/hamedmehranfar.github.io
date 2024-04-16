@@ -113,6 +113,16 @@
     <loc>https://hamedmehranfar.github.io/tag/tra/</loc>
     <lastmod>2024-04-15T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/tra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/tra/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/tracks/</loc>
     <lastmod>2024-04-15T13:00:00+00:00</lastmod>
