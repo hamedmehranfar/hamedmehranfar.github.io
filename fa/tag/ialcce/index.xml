@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IALCCE | حامد مهران‌فر</title>
+    <link>https://hamedmehranfar.github.io/fa/tag/ialcce/</link>
+      <atom:link href="https://hamedmehranfar.github.io/fa/tag/ialcce/index.xml" rel="self" type="application/rss+xml" />
+    <description>IALCCE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fa-IR</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>IALCCE</title>
+      <link>https://hamedmehranfar.github.io/fa/tag/ialcce/</link>
+    </image>
+    
+    <item>
+      <title>Presentation at ILACCE 2023</title>
+      <link>https://hamedmehranfar.github.io/fa/talk/presentation-at-ilacce-2023/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/talk/presentation-at-ilacce-2023/</guid>
+      <description>&lt;h2 id=&#34;ialcce-2023&#34;&gt;IALCCE 2023&lt;/h2&gt;
+&lt;p&gt;It was a great chance to get to know brilliant people working on different aspects of civil engineering. In our special session, we had 6 speakers and had a fruitful discussion after each presentation. The topics presented in the special session include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Decentralized control-based intervention policies for road networks&lt;/em&gt; by &lt;strong&gt;Y. Nakazato&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Efficient early estimates of bridge interventions: costs, required possession times and associated failure risks&lt;/em&gt; by &lt;strong&gt;H. Mehranfar&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Estimation of bridge component condition states with varying data availability&lt;/em&gt; by &lt;strong&gt;S. Chuo&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;State-of-the-art in the use of responsive systems for the built environment&lt;/em&gt; by &lt;strong&gt;C. Martani&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Digital twins in construction practice — A use case driven implementation based on existing theory&lt;/em&gt; by &lt;strong&gt;I. Zinke&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Advanced life-cycle assessment of reinforced concrete bridges using digital twin&lt;/em&gt; by &lt;strong&gt;J. Rymeš&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

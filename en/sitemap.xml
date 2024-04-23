@@ -5,6 +5,16 @@
     <loc>https://hamedmehranfar.github.io/tag/bridges/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/bridges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/bridges/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/categories/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
@@ -16,6 +26,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/categories/"
                 />
@@ -23,10 +38,30 @@
     <loc>https://hamedmehranfar.github.io/category/conferences/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/category/conferences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/category/conferences/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/category/doctoral/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/category/doctoral/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/category/doctoral/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/category/eth/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
@@ -35,6 +70,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/category/eth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/category/eth/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -53,6 +93,11 @@
     <loc>https://hamedmehranfar.github.io/tag/railway-infrastructure/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/railway-infrastructure/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
@@ -74,6 +119,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/stability/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/stability/"
                 />
@@ -88,6 +138,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/event/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/event/"
                 />
@@ -99,6 +154,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -120,6 +180,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/tra/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/tra/"
                 />
@@ -127,6 +192,16 @@
     <loc>https://hamedmehranfar.github.io/tag/tracks/</loc>
     <lastmod>2024-04-15T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/tracks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/tracks/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/intervention-strategies/</loc>
     <lastmod>2024-01-26T12:35:06+01:00</lastmod>
@@ -135,6 +210,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/intervention-strategies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/intervention-strategies/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -152,6 +232,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/management/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/management/"
                 />
@@ -163,6 +248,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -187,6 +277,16 @@
     <loc>https://hamedmehranfar.github.io/tag/failure-risks/</loc>
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/failure-risks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/failure-risks/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/infrastructure-management/</loc>
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
@@ -195,6 +295,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/infrastructure-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/infrastructure-management/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -219,6 +324,16 @@
     <loc>https://hamedmehranfar.github.io/tag/supervision/</loc>
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/supervision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/supervision/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/publication-type/2/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
@@ -227,6 +342,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -244,6 +364,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication/journal-article-5/"
                 />
@@ -251,10 +376,30 @@
     <loc>https://hamedmehranfar.github.io/tag/maintenance-inspection/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/maintenance-inspection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/maintenance-inspection/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/planning-scheduling/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/planning-scheduling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/planning-scheduling/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/publication_types/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
@@ -266,6 +411,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication_types/"
                 />
@@ -273,6 +423,11 @@
     <loc>https://hamedmehranfar.github.io/publication/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
@@ -289,6 +444,11 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/railway/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/railway/"
                 />
@@ -301,10 +461,25 @@
     <loc>https://hamedmehranfar.github.io/tag/risk-probability-analysis/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/risk-probability-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/risk-probability-analysis/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/</loc>
     <lastmod>2023-11-07T10:53:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
@@ -326,6 +501,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/hobby/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/hobby/"
                 />
@@ -337,6 +517,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/r/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -354,6 +539,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/category/r/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/category/r/"
                 />
@@ -365,6 +555,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/rstudio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/rstudio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -382,6 +577,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/slides/hugor/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/slides/hugor/"
                 />
@@ -393,6 +593,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/slides/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -410,6 +615,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/"
                 />
@@ -421,6 +631,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/publication/journal-article-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -438,6 +653,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/intervention-programs/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/intervention-programs/"
                 />
@@ -449,6 +669,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/optimisation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/optimisation/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -466,6 +691,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication-type/1/"
                 />
@@ -480,6 +710,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication/conference-paper-1/"
                 />
@@ -487,10 +722,30 @@
     <loc>https://hamedmehranfar.github.io/tag/estimation/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/estimation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/estimation/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/conferences/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/conferences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/conferences/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/publication/conference-paper-3/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
@@ -499,6 +754,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/publication/conference-paper-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -516,6 +776,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/ialcce/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/ialcce/"
                 />
@@ -523,6 +788,11 @@
     <loc>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/talk/presentation-at-ilacce-2023/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
@@ -544,6 +814,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/simulation/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/simulation/"
                 />
@@ -555,6 +830,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/publication/journal-article-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -572,6 +852,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/operation/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/operation/"
                 />
@@ -583,6 +868,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/policy-evaluation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/policy-evaluation/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -600,6 +890,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/eth/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tag/eth/"
                 />
@@ -611,6 +906,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/supervision/content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/supervision/content/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -628,6 +928,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/supervision/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/supervision/"
                 />
@@ -639,6 +944,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -656,6 +966,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/project/stability/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/project/stability/"
                 />
@@ -663,6 +978,16 @@
     <loc>https://hamedmehranfar.github.io/tag/stochastic-modelling/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/stochastic-modelling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/stochastic-modelling/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/publication/conference-paper-2/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
@@ -674,6 +999,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication/conference-paper-2/"
                 />
@@ -681,22 +1011,72 @@
     <loc>https://hamedmehranfar.github.io/tag/safety/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/safety/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/safety/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/statistical-analysis/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/statistical-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/statistical-analysis/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/freight/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/freight/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/freight/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/heavy-haul/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/heavy-haul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/heavy-haul/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/operation-policies/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/operation-policies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/operation-policies/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/smart-fleet-allocation/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
@@ -705,6 +1085,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/smart-fleet-allocation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/smart-fleet-allocation/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -722,6 +1107,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/project/smart-fleet-allocation/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/project/smart-fleet-allocation/"
                 />
@@ -733,6 +1123,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/tag/cargo-for-rail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/cargo-for-rail/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -750,6 +1145,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication/journal-article-3/"
                 />
@@ -757,6 +1157,16 @@
     <loc>https://hamedmehranfar.github.io/tag/lean-railroading/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/lean-railroading/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/lean-railroading/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -765,6 +1175,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/slides/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -782,6 +1197,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication/conference-paper-4/"
                 />
@@ -793,6 +1213,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/publication/conference-paper-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -810,6 +1235,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/project/cargo-for-rail/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/project/cargo-for-rail/"
                 />
@@ -821,6 +1251,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/publication/journal-article-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -838,6 +1273,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication/conference-paper-6/"
                 />
@@ -848,6 +1288,11 @@
                 rel="alternate"
                 hreflang="de-CH"
                 href="https://hamedmehranfar.github.io/de/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/admin/"
                 />
     <xhtml:link
                 rel="alternate"

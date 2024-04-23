@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operation | حامد مهران‌فر</title>
+    <link>https://hamedmehranfar.github.io/fa/tag/operation/</link>
+      <atom:link href="https://hamedmehranfar.github.io/fa/tag/operation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Operation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fa-IR</language><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Operation</title>
+      <link>https://hamedmehranfar.github.io/fa/tag/operation/</link>
+    </image>
+    
+    <item>
+      <title>Improving operational efficiency of iron ore logistics by rail using simulation</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-1/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Analysis of Stationary Rail Cars Containing Hazardous Materials; A Case Study</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-4/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

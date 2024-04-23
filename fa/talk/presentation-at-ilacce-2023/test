@@ -1,0 +1,35 @@
+abstract: 
+address: 
+  city: 
+  country: 
+  postcode: 
+  region: 
+  street: 
+all_day: false
+authors:
+  - admin
+date: "2020-09-01"
+date_end: "2024-12-01"
+event: 
+event_url: false
+featured: false
+image: 
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/FlPc9_VocJ4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)'
+  focal_point: Right
+links:
+<!-- icon: twitter
+  icon_pack:fab
+  name:Follow
+  url:https://twitter.com/georgecushen -->
+location: ETH Zürich, Switzerland
+projects:
+
+publishDate: ""
+slides: "" 
+summary: I have had a chance to supervise multiple Bachelor and Master theses as well as Master projects.
+tags: ["ETH", "STABILITY", "Supervision"]
+title: Supervising theses and projects
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
