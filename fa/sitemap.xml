@@ -31,6 +31,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/category/conferences/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa-IR"
                 href="https://hamedmehranfar.github.io/fa/category/conferences/"
                 />
@@ -42,6 +47,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/category/doctoral/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/category/doctoral/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -40,6 +40,11 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/category/conferences/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa-IR"
                 href="https://hamedmehranfar.github.io/fa/category/conferences/"
                 />
@@ -52,6 +57,11 @@
     <loc>https://hamedmehranfar.github.io/category/doctoral/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/category/doctoral/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
@@ -164,6 +174,81 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/tag/ibi/</loc>
+    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/ibi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/ibi/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/tag/intervention-programs/</loc>
+    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/intervention-programs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tag/intervention-programs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/intervention-programs/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/talk/presentation-at-ibi-research-day/</loc>
+    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/talk/prasentation-beim-ibi-forschungstag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/talk/presentation-at-ibi-research-day/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/tag/csfm/</loc>
+    <lastmod>2024-05-29T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/csfm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/csfm/"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/talk/csfm-symposium-2024/</loc>
+    <lastmod>2024-05-29T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/talk/csfm-symposium-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/talk/csfm-symposium-2024/"
                 />
   </url><url>
     <loc>https://hamedmehranfar.github.io/talk/participating-in-tra-2024/</loc>
@@ -641,25 +726,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://hamedmehranfar.github.io/publication/journal-article-2/"
-                />
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/tag/intervention-programs/</loc>
-    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/intervention-programs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/intervention-programs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/intervention-programs/"
                 />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/optimisation/</loc>
