@@ -95,10 +95,30 @@
     <loc>https://hamedmehranfar.github.io/tag/iabmas/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/iabmas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/iabmas/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/talk/participating-in-iabmas-2024/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-iabmas-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/talk/participating-in-iabmas-2024/"
+                />
   </url><url>
     <loc>https://hamedmehranfar.github.io/tag/railway-infrastructure/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
