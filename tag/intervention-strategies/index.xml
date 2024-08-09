@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intervention Strategies | Hamed Mehranfar</title>
-    <link>https://hamedmehranfar.github.io/tag/intervention-strategies/</link>
+    <link>https://hamedmehranfar.github.io/tag/intervention-strategies.html</link>
       <atom:link href="https://hamedmehranfar.github.io/tag/intervention-strategies/index.xml" rel="self" type="application/rss+xml" />
     <description>Intervention Strategies</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
       <title>Intervention Strategies</title>
-      <link>https://hamedmehranfar.github.io/tag/intervention-strategies/</link>
+      <link>https://hamedmehranfar.github.io/tag/intervention-strategies.html</link>
     </image>
     
     <item>
       <title>Workshop with Track management team @SBB!</title>
-      <link>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb/</link>
+      <link>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb.html</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb/</guid>
+      <guid>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb.html</guid>
       <description>&lt;p&gt;Today, we had a productive workshop with the SBB track management team. We introduced our methodology to estimate intervention requirements, their costs, and required possession windows in the early phases of the intervention planning process. The workshop was well-received and we had a very good discussion afterwards. We exchanged feedback and ideas on how to improve and adapt this work to the specific needs and challenges of the SBB network. I am looking forward to working more closely with the SBB team to find the best ways to implement this work and support their decision making in the intervention planning process.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Benders decomposition to accelerate determination of optimal railway intervention programmes</title>
-      <link>https://hamedmehranfar.github.io/publication/journal-article-2/</link>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-2.html</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/journal-article-2/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-2.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient early estimates of bridge interventions:Costs, required possession times and associated failure risks</title>
-      <link>https://hamedmehranfar.github.io/publication/conference-paper-1/</link>
+      <link>https://hamedmehranfar.github.io/publication/conference-paper-1.html</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/conference-paper-1/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/conference-paper-1.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation at ILACCE 2023</title>
-      <link>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023/</link>
+      <link>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023.html</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023/</guid>
+      <guid>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023.html</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>STABILITY</title>
-      <link>https://hamedmehranfar.github.io/project/stability/</link>
+      <link>https://hamedmehranfar.github.io/project/stability.html</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/project/stability/</guid>
+      <guid>https://hamedmehranfar.github.io/project/stability.html</guid>
       <description>&lt;p&gt;The future of rail transport will be one where trains carrying passengers and goods flow seamlessly from their origins to their destinations. Potential disruptions due to train incidents will be foreseen with the extensive use of surveillance technologies, and either prevented through the implementation of detailed action plans or their consequences eliminated with the seamless rerouting of trains. Interventions on the infrastructure, whether it be the grinding of tracks, or expansion of train stations, will be carried out in perfectly allotted slots in train
 schedules. Train schedules will be stable and the use of train schedule reserves will be maximized.&lt;/p&gt;
 &lt;p&gt;STABILITY will develop tools to enable the realization of the latter part of this future. It will include the development of a new integrated train schedule – intervention planning process that enables the optimal exploitation of digital tools.

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Railway | Hamed Mehranfar</title>
-    <link>https://hamedmehranfar.github.io/tag/railway/</link>
+    <link>https://hamedmehranfar.github.io/tag/railway.html</link>
       <atom:link href="https://hamedmehranfar.github.io/tag/railway/index.xml" rel="self" type="application/rss+xml" />
     <description>Railway</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
       <title>Railway</title>
-      <link>https://hamedmehranfar.github.io/tag/railway/</link>
+      <link>https://hamedmehranfar.github.io/tag/railway.html</link>
     </image>
     
     <item>
       <title>Automated early estimation of bridge interventions, possession windows and costs</title>
-      <link>https://hamedmehranfar.github.io/publication/journal-article-5/</link>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-5.html</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/journal-article-5/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-5.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benders decomposition to accelerate determination of optimal railway intervention programmes</title>
-      <link>https://hamedmehranfar.github.io/publication/journal-article-2/</link>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-2.html</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/journal-article-2/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-2.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient early estimates of bridge interventions:Costs, required possession times and associated failure risks</title>
-      <link>https://hamedmehranfar.github.io/publication/conference-paper-1/</link>
+      <link>https://hamedmehranfar.github.io/publication/conference-paper-1.html</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/conference-paper-1/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/conference-paper-1.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimation of bridge component condition states with varying data availability</title>
-      <link>https://hamedmehranfar.github.io/publication/conference-paper-3/</link>
+      <link>https://hamedmehranfar.github.io/publication/conference-paper-3.html</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/conference-paper-3/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/conference-paper-3.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation at ILACCE 2023</title>
-      <link>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023/</link>
+      <link>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023.html</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023/</guid>
+      <guid>https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023.html</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -106,9 +106,9 @@
     
     <item>
       <title>STABILITY</title>
-      <link>https://hamedmehranfar.github.io/project/stability/</link>
+      <link>https://hamedmehranfar.github.io/project/stability.html</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/project/stability/</guid>
+      <guid>https://hamedmehranfar.github.io/project/stability.html</guid>
       <description>&lt;p&gt;The future of rail transport will be one where trains carrying passengers and goods flow seamlessly from their origins to their destinations. Potential disruptions due to train incidents will be foreseen with the extensive use of surveillance technologies, and either prevented through the implementation of detailed action plans or their consequences eliminated with the seamless rerouting of trains. Interventions on the infrastructure, whether it be the grinding of tracks, or expansion of train stations, will be carried out in perfectly allotted slots in train
 schedules. Train schedules will be stable and the use of train schedule reserves will be maximized.&lt;/p&gt;
 &lt;p&gt;STABILITY will develop tools to enable the realization of the latter part of this future. It will include the development of a new integrated train schedule – intervention planning process that enables the optimal exploitation of digital tools.
@@ -141,25 +141,25 @@ both train schedule stability and the maximum use of train schedule reserves.&lt
     
     <item>
       <title>Major Factor Affecting Freight Train Collision Severity At Road-Rail Level Crossing Using Multinomial Logit Model</title>
-      <link>https://hamedmehranfar.github.io/publication/conference-paper-2/</link>
+      <link>https://hamedmehranfar.github.io/publication/conference-paper-2.html</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/conference-paper-2/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/conference-paper-2.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Efficiency of Mineral Terminal Performance using Lean Railroading</title>
-      <link>https://hamedmehranfar.github.io/publication/journal-article-3/</link>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-3.html</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/journal-article-3/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-3.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk Analysis of Stationary Rail Cars Containing Hazardous Materials; A Case Study</title>
-      <link>https://hamedmehranfar.github.io/publication/journal-article-4/</link>
+      <link>https://hamedmehranfar.github.io/publication/journal-article-4.html</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/publication/journal-article-4/</guid>
+      <guid>https://hamedmehranfar.github.io/publication/journal-article-4.html</guid>
       <description></description>
     </item>
     

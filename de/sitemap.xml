@@ -2,606 +2,628 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hamedmehranfar.github.io/de/tag/bahninfrastruktur/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/brucken/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/categories/</loc>
-    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
+    <loc>https://hamedmehranfar.github.io/de/categories.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/categories/"
+                href="https://hamedmehranfar.github.io/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/categories/"
+                href="https://hamedmehranfar.github.io/fa/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/categories/"
+                href="https://hamedmehranfar.github.io/de/categories.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/category/doktorat/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/digitalisierung.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/category/doktorat.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tag/eisenbahn.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/category/eth.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/category/eth.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/category/eth.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/category/eth.html"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/talk/gni-symposium-2024.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/talk/gni-symposium-2024.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/talk/gni-symposium-2024.html"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tag/infrastrukturmanagement.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tag/interventionsprogramme.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/category/konferenzen.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tags.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tags.html"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/event.html</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/event.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/event.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/event.html"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tag/bahninfrastruktur.html</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/category/eth/</loc>
-    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
+    <loc>https://hamedmehranfar.github.io/de/tag/brucken.html</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/category/eth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/category/eth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/category/eth/"
-                />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/iabmas/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/iabmas.html</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/iabmas/"
+                href="https://hamedmehranfar.github.io/tag/iabmas.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/iabmas/"
+                href="https://hamedmehranfar.github.io/de/tag/iabmas.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/category/konferenzen/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/stability/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/stability.html</loc>
     <lastmod>2024-06-06T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/stability/"
+                href="https://hamedmehranfar.github.io/tag/stability.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/stability/"
+                href="https://hamedmehranfar.github.io/fa/tag/stability.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/stability/"
+                href="https://hamedmehranfar.github.io/de/tag/stability.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tags/</loc>
-    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tags/"
-                />
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-iabmas-2024/</loc>
+    <loc>https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-iabmas-2024.html</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/talk/participating-in-iabmas-2024/"
+                href="https://hamedmehranfar.github.io/talk/participating-in-iabmas-2024.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-iabmas-2024/"
+                href="https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-iabmas-2024.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/event/</loc>
+    <loc>https://hamedmehranfar.github.io/de/category/doktorand.html</loc>
+    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tag/eisenbahninfrastruktur.html</loc>
+    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tag/ibi.html</loc>
     <lastmod>2024-06-06T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/event/"
+                href="https://hamedmehranfar.github.io/tag/ibi.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/tag/ibi.html"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tag/intervention-programs.html</loc>
+    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/tag/intervention-programs.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/event/"
+                href="https://hamedmehranfar.github.io/fa/tag/intervention-programs.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/event/"
+                href="https://hamedmehranfar.github.io/de/tag/intervention-programs.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/category/doktorand/</loc>
+    <loc>https://hamedmehranfar.github.io/de/category/konferenz.html</loc>
     <lastmod>2024-06-06T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/eisenbahninfrastruktur/</loc>
-    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/ibi/</loc>
+    <loc>https://hamedmehranfar.github.io/de/talk/prasentation-beim-ibi-forschungstag.html</loc>
     <lastmod>2024-06-06T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/ibi/"
+                href="https://hamedmehranfar.github.io/talk/presentation-at-ibi-research-day.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/ibi/"
+                href="https://hamedmehranfar.github.io/de/talk/prasentation-beim-ibi-forschungstag.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/intervention-programs/</loc>
-    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/intervention-programs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/intervention-programs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/intervention-programs/"
-                />
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/category/konferenz/</loc>
-    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/talk/prasentation-beim-ibi-forschungstag/</loc>
-    <lastmod>2024-06-06T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/talk/presentation-at-ibi-research-day/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/talk/prasentation-beim-ibi-forschungstag/"
-                />
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/category/conferences/</loc>
+    <loc>https://hamedmehranfar.github.io/de/category/conferences.html</loc>
     <lastmod>2024-05-29T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/category/conferences/"
+                href="https://hamedmehranfar.github.io/category/conferences.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/category/conferences/"
+                href="https://hamedmehranfar.github.io/fa/category/conferences.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/category/conferences/"
+                href="https://hamedmehranfar.github.io/de/category/conferences.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/csfm/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/csfm.html</loc>
     <lastmod>2024-05-29T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/csfm/"
+                href="https://hamedmehranfar.github.io/tag/csfm.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/csfm/"
+                href="https://hamedmehranfar.github.io/de/tag/csfm.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/talk/csfm-symposium-2024/</loc>
+    <loc>https://hamedmehranfar.github.io/de/talk/csfm-symposium-2024.html</loc>
     <lastmod>2024-05-29T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/talk/csfm-symposium-2024/"
+                href="https://hamedmehranfar.github.io/talk/csfm-symposium-2024.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/talk/csfm-symposium-2024/"
+                href="https://hamedmehranfar.github.io/de/talk/csfm-symposium-2024.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/category/doctoral/</loc>
+    <loc>https://hamedmehranfar.github.io/de/category/doctoral.html</loc>
     <lastmod>2024-05-29T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/category/doctoral/"
+                href="https://hamedmehranfar.github.io/category/doctoral.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/category/doctoral/"
+                href="https://hamedmehranfar.github.io/fa/category/doctoral.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/category/doctoral/"
+                href="https://hamedmehranfar.github.io/de/category/doctoral.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/interventionsprogramme/</loc>
-    <lastmod>2024-05-29T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/anlagenmanagement/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/anlagenmanagement.html</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-tra-2024/</loc>
+    <loc>https://hamedmehranfar.github.io/de/talk/teilnahme-an-der-tra-2024.html</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/tra/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/tra.html</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/tra/"
+                href="https://hamedmehranfar.github.io/tag/tra.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/tra/"
+                href="https://hamedmehranfar.github.io/fa/tag/tra.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/tra/"
+                href="https://hamedmehranfar.github.io/de/tag/tra.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/post/</loc>
+    <loc>https://hamedmehranfar.github.io/de/post.html</loc>
     <lastmod>2024-01-26T12:35:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/post/"
+                href="https://hamedmehranfar.github.io/post.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/post/"
+                href="https://hamedmehranfar.github.io/fa/post.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/post/"
+                href="https://hamedmehranfar.github.io/de/post.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/eisenbahn/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/interventionstrategien.html</loc>
     <lastmod>2024-01-26T12:35:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/interventionstrategien/</loc>
-    <lastmod>2024-01-26T12:35:06+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/management/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/management.html</loc>
     <lastmod>2024-01-26T12:35:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/management/"
+                href="https://hamedmehranfar.github.io/tag/management.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/management/"
+                href="https://hamedmehranfar.github.io/fa/tag/management.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/management/"
+                href="https://hamedmehranfar.github.io/de/tag/management.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb/</loc>
+    <loc>https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb.html</loc>
     <lastmod>2024-01-26T12:35:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb/"
+                href="https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb/"
+                href="https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/betreuung/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/betreuung.html</loc>
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/fehlerrisiko/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/fehlerrisiko.html</loc>
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/post/fruhling-semester-2024/</loc>
+    <loc>https://hamedmehranfar.github.io/de/post/fruhling-semester-2024.html</loc>
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/post/spring-semester-2024/"
+                href="https://hamedmehranfar.github.io/post/spring-semester-2024.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/post/fruhling-semester-2024/"
+                href="https://hamedmehranfar.github.io/de/post/fruhling-semester-2024.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/infrastrukturemanagement/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/infrastrukturemanagement.html</loc>
     <lastmod>2024-01-12T08:22:55+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication-type/2/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication-type/2.html</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication-type/2/"
+                href="https://hamedmehranfar.github.io/publication-type/2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication-type/2/"
+                href="https://hamedmehranfar.github.io/fa/publication-type/2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication-type/2/"
+                href="https://hamedmehranfar.github.io/de/publication-type/2.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-5/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-5.html</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/journal-article-5/"
+                href="https://hamedmehranfar.github.io/publication/journal-article-5.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/journal-article-5/"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-5.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/journal-article-5/"
+                href="https://hamedmehranfar.github.io/de/publication/journal-article-5.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/erhaltung-und-inspektion/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/erhaltung-und-inspektion.html</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/planung-zeitplanung/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/planung-zeitplanung.html</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication_types/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication_types.html</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication_types/"
+                href="https://hamedmehranfar.github.io/publication_types.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication_types/"
+                href="https://hamedmehranfar.github.io/fa/publication_types.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication_types/"
+                href="https://hamedmehranfar.github.io/de/publication_types.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication.html</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/"
+                href="https://hamedmehranfar.github.io/publication.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/"
+                href="https://hamedmehranfar.github.io/fa/publication.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/"
+                href="https://hamedmehranfar.github.io/de/publication.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/risiko-und-wahrscheinlichkeitsanalyse/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/risiko-und-wahrscheinlichkeitsanalyse.html</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/hobby/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/hobby.html</loc>
     <lastmod>2023-11-07T10:53:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/hobby/"
+                href="https://hamedmehranfar.github.io/tag/hobby.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/hobby/"
+                href="https://hamedmehranfar.github.io/fa/tag/hobby.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/hobby/"
+                href="https://hamedmehranfar.github.io/de/tag/hobby.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/</loc>
+    <loc>https://hamedmehranfar.github.io/de/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github.html</loc>
     <lastmod>2023-11-07T10:53:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/"
+                href="https://hamedmehranfar.github.io/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/"
+                href="https://hamedmehranfar.github.io/fa/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/"
+                href="https://hamedmehranfar.github.io/de/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/r/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/r.html</loc>
     <lastmod>2023-11-07T10:53:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/r/"
+                href="https://hamedmehranfar.github.io/tag/r.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/r/"
+                href="https://hamedmehranfar.github.io/fa/tag/r.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/r/"
+                href="https://hamedmehranfar.github.io/de/tag/r.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/category/r/</loc>
+    <loc>https://hamedmehranfar.github.io/de/category/r.html</loc>
     <lastmod>2023-11-07T10:53:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/category/r/"
+                href="https://hamedmehranfar.github.io/category/r.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/category/r/"
+                href="https://hamedmehranfar.github.io/fa/category/r.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/category/r/"
+                href="https://hamedmehranfar.github.io/de/category/r.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/rstudio/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/rstudio.html</loc>
     <lastmod>2023-11-07T10:53:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/rstudio/"
+                href="https://hamedmehranfar.github.io/tag/rstudio.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/rstudio/"
+                href="https://hamedmehranfar.github.io/fa/tag/rstudio.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/rstudio/"
+                href="https://hamedmehranfar.github.io/de/tag/rstudio.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/slides/hugor/</loc>
+    <loc>https://hamedmehranfar.github.io/de/slides/hugor.html</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/slides/hugor/"
+                href="https://hamedmehranfar.github.io/slides/hugor.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/slides/hugor/"
+                href="https://hamedmehranfar.github.io/fa/slides/hugor.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/slides/hugor/"
+                href="https://hamedmehranfar.github.io/de/slides/hugor.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/slides/</loc>
+    <loc>https://hamedmehranfar.github.io/de/slides.html</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/slides/"
+                href="https://hamedmehranfar.github.io/slides.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/slides/"
+                href="https://hamedmehranfar.github.io/fa/slides.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/slides/"
+                href="https://hamedmehranfar.github.io/de/slides.html"
                 />
   </url><url>
     <loc>https://hamedmehranfar.github.io/de/</loc>
@@ -623,671 +645,667 @@
                 href="https://hamedmehranfar.github.io/de/"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-2/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-2.html</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/journal-article-2/"
+                href="https://hamedmehranfar.github.io/publication/journal-article-2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/journal-article-2/"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/journal-article-2/"
+                href="https://hamedmehranfar.github.io/de/publication/journal-article-2.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/infrastructure-management/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/infrastructure-management.html</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/infrastructure-management/"
+                href="https://hamedmehranfar.github.io/tag/infrastructure-management.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/infrastructure-management/"
+                href="https://hamedmehranfar.github.io/fa/tag/infrastructure-management.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/infrastructure-management/"
+                href="https://hamedmehranfar.github.io/de/tag/infrastructure-management.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/intervention-strategies/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/intervention-strategies.html</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/intervention-strategies/"
+                href="https://hamedmehranfar.github.io/tag/intervention-strategies.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/intervention-strategies/"
+                href="https://hamedmehranfar.github.io/fa/tag/intervention-strategies.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/intervention-strategies/"
+                href="https://hamedmehranfar.github.io/de/tag/intervention-strategies.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/optimisation/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/optimisation.html</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/optimisation/"
+                href="https://hamedmehranfar.github.io/tag/optimisation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/optimisation/"
+                href="https://hamedmehranfar.github.io/fa/tag/optimisation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/optimisation/"
+                href="https://hamedmehranfar.github.io/de/tag/optimisation.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/railway/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/railway.html</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/railway/"
+                href="https://hamedmehranfar.github.io/tag/railway.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/railway/"
+                href="https://hamedmehranfar.github.io/fa/tag/railway.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/railway/"
+                href="https://hamedmehranfar.github.io/de/tag/railway.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication-type/1/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication-type/1.html</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication-type/1/"
+                href="https://hamedmehranfar.github.io/publication-type/1.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication-type/1/"
+                href="https://hamedmehranfar.github.io/fa/publication-type/1.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication-type/1/"
+                href="https://hamedmehranfar.github.io/de/publication-type/1.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-1.html</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/conference-paper-1/"
+                href="https://hamedmehranfar.github.io/publication/conference-paper-1.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-1/"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-1.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/conference-paper-1/"
+                href="https://hamedmehranfar.github.io/de/publication/conference-paper-1.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/fehlersrisiko/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/fehlersrisiko.html</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/infrastrukturmanagement/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/interventionsstrategien.html</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/interventionsstrategien/</loc>
-    <lastmod>2023-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/schatzung/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/schatzung.html</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-3/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-3.html</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/conference-paper-3/"
+                href="https://hamedmehranfar.github.io/publication/conference-paper-3.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-3/"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-3.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/conference-paper-3/"
+                href="https://hamedmehranfar.github.io/de/publication/conference-paper-3.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/ialcce/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/ialcce.html</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/ialcce/"
+                href="https://hamedmehranfar.github.io/tag/ialcce.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/ialcce/"
+                href="https://hamedmehranfar.github.io/fa/tag/ialcce.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/ialcce/"
+                href="https://hamedmehranfar.github.io/de/tag/ialcce.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/konferenzen/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/konferenzen.html</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023/</loc>
+    <loc>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023.html</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023/"
+                href="https://hamedmehranfar.github.io/talk/presentation-at-ilacce-2023.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/talk/presentation-at-ilacce-2023/"
+                href="https://hamedmehranfar.github.io/fa/talk/presentation-at-ilacce-2023.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023/"
+                href="https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/simulation/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/simulation.html</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/simulation/"
+                href="https://hamedmehranfar.github.io/tag/simulation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/simulation/"
+                href="https://hamedmehranfar.github.io/fa/tag/simulation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/simulation/"
+                href="https://hamedmehranfar.github.io/de/tag/simulation.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-1/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-1.html</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/journal-article-1/"
+                href="https://hamedmehranfar.github.io/publication/journal-article-1.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/journal-article-1/"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-1.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/journal-article-1/"
+                href="https://hamedmehranfar.github.io/de/publication/journal-article-1.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/operation/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/operation.html</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/operation/"
+                href="https://hamedmehranfar.github.io/tag/operation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/operation/"
+                href="https://hamedmehranfar.github.io/fa/tag/operation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/operation/"
+                href="https://hamedmehranfar.github.io/de/tag/operation.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/policy-evaluation/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/policy-evaluation.html</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/policy-evaluation/"
+                href="https://hamedmehranfar.github.io/tag/policy-evaluation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/policy-evaluation/"
+                href="https://hamedmehranfar.github.io/fa/tag/policy-evaluation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/policy-evaluation/"
+                href="https://hamedmehranfar.github.io/de/tag/policy-evaluation.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/railway-infrastructure/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/railway-infrastructure.html</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/railway-infrastructure/"
+                href="https://hamedmehranfar.github.io/tag/railway-infrastructure.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/railway-infrastructure/"
+                href="https://hamedmehranfar.github.io/fa/tag/railway-infrastructure.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/railway-infrastructure/"
+                href="https://hamedmehranfar.github.io/de/tag/railway-infrastructure.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/supervision/</loc>
+    <loc>https://hamedmehranfar.github.io/de/supervision.html</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/supervision/"
+                href="https://hamedmehranfar.github.io/supervision.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/supervision/"
+                href="https://hamedmehranfar.github.io/fa/supervision.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/supervision/"
+                href="https://hamedmehranfar.github.io/de/supervision.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/supervision/content/</loc>
+    <loc>https://hamedmehranfar.github.io/de/supervision/content.html</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/supervision/content/"
+                href="https://hamedmehranfar.github.io/supervision/content.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/supervision/content/"
+                href="https://hamedmehranfar.github.io/fa/supervision/content.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/supervision/content/"
+                href="https://hamedmehranfar.github.io/de/supervision/content.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/eth/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/eth.html</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/eth/"
+                href="https://hamedmehranfar.github.io/tag/eth.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/eth/"
+                href="https://hamedmehranfar.github.io/fa/tag/eth.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/eth/"
+                href="https://hamedmehranfar.github.io/de/tag/eth.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/optimierung/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/optimierung.html</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/project/</loc>
+    <loc>https://hamedmehranfar.github.io/de/project.html</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/project/"
+                href="https://hamedmehranfar.github.io/project.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/project/"
+                href="https://hamedmehranfar.github.io/fa/project.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/project/"
+                href="https://hamedmehranfar.github.io/de/project.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/project/stability/</loc>
+    <loc>https://hamedmehranfar.github.io/de/project/stability.html</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/project/stability/"
+                href="https://hamedmehranfar.github.io/project/stability.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/project/stability/"
+                href="https://hamedmehranfar.github.io/fa/project/stability.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/project/stability/"
+                href="https://hamedmehranfar.github.io/de/project/stability.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/stochastische-modellierung/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/stochastische-modellierung.html</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-2/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-2.html</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/conference-paper-2/"
+                href="https://hamedmehranfar.github.io/publication/conference-paper-2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-2/"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/conference-paper-2/"
+                href="https://hamedmehranfar.github.io/de/publication/conference-paper-2.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/sicherheit/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/sicherheit.html</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/statistische-analyse/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/statistische-analyse.html</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/betriebspolitiken/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/betriebspolitiken.html</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/guterverkehr/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/guterverkehr.html</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/schwerlastverkehr/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/schwerlastverkehr.html</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/smart-fleet-allocation/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/smart-fleet-allocation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/smart-fleet-allocation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/smart-fleet-allocation/"
-                />
-  </url><url>
-    <loc>https://hamedmehranfar.github.io/de/project/smart-fleet-allocation/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/smart-fleet-allocation.html</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/project/smart-fleet-allocation/"
+                href="https://hamedmehranfar.github.io/tag/smart-fleet-allocation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/project/smart-fleet-allocation/"
+                href="https://hamedmehranfar.github.io/fa/tag/smart-fleet-allocation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/project/smart-fleet-allocation/"
+                href="https://hamedmehranfar.github.io/de/tag/smart-fleet-allocation.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/cargo-for-rail/</loc>
+    <loc>https://hamedmehranfar.github.io/de/project/smart-fleet-allocation.html</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://hamedmehranfar.github.io/project/smart-fleet-allocation.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa-IR"
+                href="https://hamedmehranfar.github.io/fa/project/smart-fleet-allocation.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-CH"
+                href="https://hamedmehranfar.github.io/de/project/smart-fleet-allocation.html"
+                />
+  </url><url>
+    <loc>https://hamedmehranfar.github.io/de/tag/cargo-for-rail.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/tag/cargo-for-rail/"
+                href="https://hamedmehranfar.github.io/tag/cargo-for-rail.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/tag/cargo-for-rail/"
+                href="https://hamedmehranfar.github.io/fa/tag/cargo-for-rail.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/tag/cargo-for-rail/"
+                href="https://hamedmehranfar.github.io/de/tag/cargo-for-rail.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-3/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-3.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/journal-article-3/"
+                href="https://hamedmehranfar.github.io/publication/journal-article-3.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/journal-article-3/"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-3.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/journal-article-3/"
+                href="https://hamedmehranfar.github.io/de/publication/journal-article-3.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/schlankheiteisenbahnsysteme/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/schlankheiteisenbahnsysteme.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/schwertransporte/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/schwertransporte.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/slides/example/</loc>
+    <loc>https://hamedmehranfar.github.io/de/slides/example.html</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/slides/example/"
+                href="https://hamedmehranfar.github.io/slides/example.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/slides/example/"
+                href="https://hamedmehranfar.github.io/fa/slides/example.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/slides/example/"
+                href="https://hamedmehranfar.github.io/de/slides/example.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-4/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-4.html</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/conference-paper-4/"
+                href="https://hamedmehranfar.github.io/publication/conference-paper-4.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-4/"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-4.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/conference-paper-4/"
+                href="https://hamedmehranfar.github.io/de/publication/conference-paper-4.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-5/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-5.html</loc>
     <lastmod>2018-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/conference-paper-5/"
+                href="https://hamedmehranfar.github.io/publication/conference-paper-5.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-5/"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-5.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/conference-paper-5/"
+                href="https://hamedmehranfar.github.io/de/publication/conference-paper-5.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/tag/gis-system/</loc>
+    <loc>https://hamedmehranfar.github.io/de/tag/gis-system.html</loc>
     <lastmod>2018-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/project/cargo-for-rail/</loc>
+    <loc>https://hamedmehranfar.github.io/de/project/cargo-for-rail.html</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/project/cargo-for-rail/"
+                href="https://hamedmehranfar.github.io/project/cargo-for-rail.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/project/cargo-for-rail/"
+                href="https://hamedmehranfar.github.io/fa/project/cargo-for-rail.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/project/cargo-for-rail/"
+                href="https://hamedmehranfar.github.io/de/project/cargo-for-rail.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-4/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/journal-article-4.html</loc>
     <lastmod>2017-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/journal-article-4/"
+                href="https://hamedmehranfar.github.io/publication/journal-article-4.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/journal-article-4/"
+                href="https://hamedmehranfar.github.io/fa/publication/journal-article-4.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/journal-article-4/"
+                href="https://hamedmehranfar.github.io/de/publication/journal-article-4.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-6/</loc>
+    <loc>https://hamedmehranfar.github.io/de/publication/conference-paper-6.html</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/publication/conference-paper-6/"
+                href="https://hamedmehranfar.github.io/publication/conference-paper-6.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-6/"
+                href="https://hamedmehranfar.github.io/fa/publication/conference-paper-6.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/publication/conference-paper-6/"
+                href="https://hamedmehranfar.github.io/de/publication/conference-paper-6.html"
                 />
   </url><url>
-    <loc>https://hamedmehranfar.github.io/de/admin/</loc>
+    <loc>https://hamedmehranfar.github.io/de/admin.html</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hamedmehranfar.github.io/admin/"
+                href="https://hamedmehranfar.github.io/admin.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa-IR"
-                href="https://hamedmehranfar.github.io/fa/admin/"
+                href="https://hamedmehranfar.github.io/fa/admin.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-CH"
-                href="https://hamedmehranfar.github.io/de/admin/"
+                href="https://hamedmehranfar.github.io/de/admin.html"
                 />
   </url>
 </urlset>

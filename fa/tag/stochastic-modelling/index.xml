@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stochastic Modelling | حامد مهران‌فر</title>
-    <link>https://hamedmehranfar.github.io/fa/tag/stochastic-modelling/</link>
+    <link>https://hamedmehranfar.github.io/fa/tag/stochastic-modelling.html</link>
       <atom:link href="https://hamedmehranfar.github.io/fa/tag/stochastic-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Stochastic Modelling</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fa-IR</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
       <title>Stochastic Modelling</title>
-      <link>https://hamedmehranfar.github.io/fa/tag/stochastic-modelling/</link>
+      <link>https://hamedmehranfar.github.io/fa/tag/stochastic-modelling.html</link>
     </image>
     
     <item>
       <title>STABILITY</title>
-      <link>https://hamedmehranfar.github.io/fa/project/stability/</link>
+      <link>https://hamedmehranfar.github.io/fa/project/stability.html</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/fa/project/stability/</guid>
+      <guid>https://hamedmehranfar.github.io/fa/project/stability.html</guid>
       <description>&lt;p&gt;The future of rail transport will be one where trains carrying passengers and goods flow seamlessly from their origins to their destinations. Potential disruptions due to train incidents will be foreseen with the extensive use of surveillance technologies, and either prevented through the implementation of detailed action plans or their consequences eliminated with the seamless rerouting of trains. Interventions on the infrastructure, whether it be the grinding of tracks, or expansion of train stations, will be carried out in perfectly allotted slots in train
 schedules. Train schedules will be stable and the use of train schedule reserves will be maximized.&lt;/p&gt;
 &lt;p&gt;STABILITY will develop tools to enable the realization of the latter part of this future. It will include the development of a new integrated train schedule – intervention planning process that enables the optimal exploitation of digital tools.

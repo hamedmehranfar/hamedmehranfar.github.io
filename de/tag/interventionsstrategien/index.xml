@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interventionsstrategien | Hamed Mehranfar</title>
-    <link>https://hamedmehranfar.github.io/de/tag/interventionsstrategien/</link>
+    <link>https://hamedmehranfar.github.io/de/tag/interventionsstrategien.html</link>
       <atom:link href="https://hamedmehranfar.github.io/de/tag/interventionsstrategien/index.xml" rel="self" type="application/rss+xml" />
     <description>Interventionsstrategien</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
       <title>Interventionsstrategien</title>
-      <link>https://hamedmehranfar.github.io/de/tag/interventionsstrategien/</link>
+      <link>https://hamedmehranfar.github.io/de/tag/interventionsstrategien.html</link>
     </image>
     
     <item>
       <title>Efficient early estimates of bridge interventions:Costs, required possession times and associated failure risks</title>
-      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</link>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-1.html</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</guid>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-1.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Präsentation bei der ILACCE 2023</title>
-      <link>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023/</link>
+      <link>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023.html</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023/</guid>
+      <guid>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023.html</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -82,9 +82,9 @@
     
     <item>
       <title>STABILITY</title>
-      <link>https://hamedmehranfar.github.io/de/project/stability/</link>
+      <link>https://hamedmehranfar.github.io/de/project/stability.html</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/project/stability/</guid>
+      <guid>https://hamedmehranfar.github.io/de/project/stability.html</guid>
       <description>&lt;p&gt;Die Zukunft des Schienenverkehrs wird darin liegen, dass Züge, die Passagiere und Güter transportieren, sich nahtlos von ihrem Ursprung hin zu ihrem Ziel bewegen. Potenzielle Störungen aufgrund von Zugunfällen sollen durch den umfassenden Einsatz von Überwachungstechnologien vorhergesehen und entweder durch die Umsetzung detaillierter Aktionspläne verhindert oder deren Folgen durch die nahtlose Umleitung von Zügen eliminiert werden. Zukünftig sollen Eingriffe in die Infrastruktur, sei es das Schleifen von Gleisen oder der Ausbau von Bahnhöfen, in perfekt zugewiesenen Zeitfenstern innerhalb der Fahrpläne durchgeführt werden. Die Fahrpläne bleiben stabil und die Nutzung der Fahrplanreserven maximiert werden.&lt;/p&gt;
 &lt;p&gt;Das Projekt STABILITY wird die Werkzeuge für die Ermöglichung des letzteren Zukunftsszenarios entwickeln. Dazu gehört die Entwicklung eines neuen integrierten Zugfahrplan-​Einsatzplanungsprozesses, der die optimale Nutzung digitaler Werkzeuge ermöglicht.
 Dieser Prozess wird&lt;/p&gt;

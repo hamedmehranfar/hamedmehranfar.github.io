@@ -2,54 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eisenbahn | Hamed Mehranfar</title>
-    <link>https://hamedmehranfar.github.io/de/tag/eisenbahn/</link>
+    <link>https://hamedmehranfar.github.io/de/tag/eisenbahn.html</link>
       <atom:link href="https://hamedmehranfar.github.io/de/tag/eisenbahn/index.xml" rel="self" type="application/rss+xml" />
     <description>Eisenbahn</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
       <title>Eisenbahn</title>
-      <link>https://hamedmehranfar.github.io/de/tag/eisenbahn/</link>
+      <link>https://hamedmehranfar.github.io/de/tag/eisenbahn.html</link>
     </image>
     
     <item>
+      <title>GNI symposium 2024</title>
+      <link>https://hamedmehranfar.github.io/de/talk/gni-symposium-2024.html</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/talk/gni-symposium-2024.html</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;OpenStreetMap with Leaflet&lt;/title&gt;
+    &lt;meta charset=&#34;utf-8&#34; /&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.css&#34; integrity=&#34;sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==&#34; crossorigin=&#34;&#34;/&gt;
+    &lt;style&gt;
+        #map {
+            height: 400px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
+    &lt;script src=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.js&#34; integrity=&#34;sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==&#34; crossorigin=&#34;&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;
+        var map = L.map(&#39;map&#39;).setView([48.265424, 11.670841], 16);
+        L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, {
+            attribution: &#39;Map data © &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,
+            maxZoom: 18,
+        }).addTo(map);
+        var marker = L.marker([48.265424, 11.670841]).addTo(map);
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h2 id=&#34;georg-nemetschek-institute-symposium-und-expo-on-artificial-intelligence-for-the-built-world-gni-2024&#34;&gt;Georg Nemetschek Institute Symposium und Expo on Artificial Intelligence for the Built World (GNI 2024)&lt;/h2&gt;
+&lt;p&gt;Ich freue mich, ankündigen zu können, dass ich am Georg Nemetschek Institute Symposium &amp;amp; Expo on Artificial Intelligence for the Built World (GNI 2024) teilnehmen werde. Ich werde meine Forschung zu einem Optimierungsmodell vorstellen, das Eisenbahnanlagemanagern bei der Bestimmung optimaler Unterhaltungsprogrammen auf Komponentenebene helfen soll.&lt;/p&gt;
+&lt;p&gt;Dieses Modell stellt einen bedeutenden Fortschritt in unseren Bemühungen um mehr Effizienz im Eisenbahnmanagement dar. Wenn Sie an der GNI 2024 teilnehmen, lassen Sie uns ins Gespräch kommen! Ich freue mich darauf, innovative Lösungen und Möglichkeiten der Zusammenarbeit zu diskutieren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Workshop mit dem Gleisleitungsteam @SBB!</title>
-      <link>https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb/</link>
+      <link>https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb.html</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb/</guid>
+      <guid>https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb.html</guid>
       <description>&lt;p&gt;Heute hatten wir einen produktiven Workshop mit dem Gleisleitungsteam der SBB. Wir haben unsere Methodik zur Abschätzung des Interventionsbedarfs, der Kosten und der erforderlichen Zeitfenster in den frühen Phasen des Interventionsplanungsprozesses vorgestellt. Der Workshop wurde gut aufgenommen und wir hatten eine sehr gute Diskussion im Anschluss. Wir haben Feedback und Ideen ausgetauscht, wie wir diese Arbeit verbessern und an die spezifischen Bedürfnisse und Herausforderungen des SBB-Netzes anpassen können. Ich freue mich auf eine engere Zusammenarbeit mit dem SBB-Team, um die besten Wege zur Umsetzung dieser Arbeit zu finden und ihre Entscheidungsfindung im Interventionsplanungsprozess zu unterstützen.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Automated early estimation of bridge interventions, possession windows and costs</title>
-      <link>https://hamedmehranfar.github.io/de/publication/journal-article-5/</link>
+      <link>https://hamedmehranfar.github.io/de/publication/journal-article-5.html</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-5/</guid>
+      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-5.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient early estimates of bridge interventions:Costs, required possession times and associated failure risks</title>
-      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</link>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-1.html</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</guid>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-1.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimation of bridge component condition states with varying data availability</title>
-      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-3/</link>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-3.html</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-3/</guid>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-3.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Präsentation bei der ILACCE 2023</title>
-      <link>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023/</link>
+      <link>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023.html</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023/</guid>
+      <guid>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023.html</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -107,9 +160,9 @@
     
     <item>
       <title>STABILITY</title>
-      <link>https://hamedmehranfar.github.io/de/project/stability/</link>
+      <link>https://hamedmehranfar.github.io/de/project/stability.html</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/project/stability/</guid>
+      <guid>https://hamedmehranfar.github.io/de/project/stability.html</guid>
       <description>&lt;p&gt;Die Zukunft des Schienenverkehrs wird darin liegen, dass Züge, die Passagiere und Güter transportieren, sich nahtlos von ihrem Ursprung hin zu ihrem Ziel bewegen. Potenzielle Störungen aufgrund von Zugunfällen sollen durch den umfassenden Einsatz von Überwachungstechnologien vorhergesehen und entweder durch die Umsetzung detaillierter Aktionspläne verhindert oder deren Folgen durch die nahtlose Umleitung von Zügen eliminiert werden. Zukünftig sollen Eingriffe in die Infrastruktur, sei es das Schleifen von Gleisen oder der Ausbau von Bahnhöfen, in perfekt zugewiesenen Zeitfenstern innerhalb der Fahrpläne durchgeführt werden. Die Fahrpläne bleiben stabil und die Nutzung der Fahrplanreserven maximiert werden.&lt;/p&gt;
 &lt;p&gt;Das Projekt STABILITY wird die Werkzeuge für die Ermöglichung des letzteren Zukunftsszenarios entwickeln. Dazu gehört die Entwicklung eines neuen integrierten Zugfahrplan-​Einsatzplanungsprozesses, der die optimale Nutzung digitaler Werkzeuge ermöglicht.
 Dieser Prozess wird&lt;/p&gt;
@@ -140,33 +193,33 @@ Dieser Prozess wird&lt;/p&gt;
     
     <item>
       <title>Major Factor Affecting Freight Train Collision Severity At Road-Rail Level Crossing Using Multinomial Logit Model</title>
-      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-2/</link>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-2.html</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-2/</guid>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-2.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Efficiency of Mineral Terminal Performance using Lean Railroading</title>
-      <link>https://hamedmehranfar.github.io/de/publication/journal-article-3/</link>
+      <link>https://hamedmehranfar.github.io/de/publication/journal-article-3.html</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-3/</guid>
+      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-3.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>GIS-based sustainable model for dangerous goods transportation:A case study of crude oil transit</title>
-      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-5/</link>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-5.html</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-5/</guid>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-5.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk Analysis of Stationary Rail Cars Containing Hazardous Materials; A Case Study</title>
-      <link>https://hamedmehranfar.github.io/de/publication/journal-article-4/</link>
+      <link>https://hamedmehranfar.github.io/de/publication/journal-article-4.html</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-4/</guid>
+      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-4.html</guid>
       <description></description>
     </item>
     

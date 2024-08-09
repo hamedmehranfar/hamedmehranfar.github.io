@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Hamed Mehranfar</title>
-    <link>https://hamedmehranfar.github.io/post/</link>
+    <link>https://hamedmehranfar.github.io/post.html</link>
       <atom:link href="https://hamedmehranfar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://hamedmehranfar.github.io/post/</link>
+      <link>https://hamedmehranfar.github.io/post.html</link>
     </image>
     
     <item>
       <title>Workshop with Track management team @SBB!</title>
-      <link>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb/</link>
+      <link>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb.html</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb/</guid>
+      <guid>https://hamedmehranfar.github.io/post/2024-01-26-workshop-with-track-management-team-sbb.html</guid>
       <description>&lt;p&gt;Today, we had a productive workshop with the SBB track management team. We introduced our methodology to estimate intervention requirements, their costs, and required possession windows in the early phases of the intervention planning process. The workshop was well-received and we had a very good discussion afterwards. We exchanged feedback and ideas on how to improve and adapt this work to the specific needs and challenges of the SBB network. I am looking forward to working more closely with the SBB team to find the best ways to implement this work and support their decision making in the intervention planning process.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spring semester 2024</title>
-      <link>https://hamedmehranfar.github.io/post/spring-semester-2024/</link>
+      <link>https://hamedmehranfar.github.io/post/spring-semester-2024.html</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/post/spring-semester-2024/</guid>
+      <guid>https://hamedmehranfar.github.io/post/spring-semester-2024.html</guid>
       <description>&lt;p&gt;I am excited to announce that I will be involved in mentoring five students in the FS2024 semester. Two of them are Master&amp;rsquo;s projects that focus on the failure risks analysis of the road infrastructure, and three of them are Bachelor&amp;rsquo;s theses that aim to estimate the financial needs to manage &lt;a href=&#34;https://www.szu.ch/en/welcome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SZU&lt;/a&gt; infrastructures. These are very important topics in infrastructure management, and I am eager to work with these students and help them achieve their goals.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Create a free personal website using Hugo and GitHub</title>
-      <link>https://hamedmehranfar.github.io/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/</link>
+      <link>https://hamedmehranfar.github.io/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github.html</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://hamedmehranfar.github.io/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/</guid>
+      <guid>https://hamedmehranfar.github.io/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github.html</guid>
       <description>&lt;p&gt;Since the beginning of my time at ETH, I decided to create a personal website for myself. I did try so many options such as forking and modifying GitHub webpages, using the web development tools websites like &lt;a href=&#34;https://www.wix.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wix.com&lt;/a&gt;, etc. However, none of them offered the freedom and customization options I was looking for until I found out about &lt;a href=&#34;https://pkgs.rstudio.com/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;code&gt;blogdown&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; package in &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; (in &lt;a href=&#34;https://posit.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rstudio&lt;/a&gt; in fact) that uses &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HUGO&lt;/a&gt; to build webpages. As a theme, then I decided to go with &lt;a href=&#34;https://research.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research.dev&lt;/a&gt; themes (formerly known as &lt;em&gt;Wowchemy&lt;/em&gt;).&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
