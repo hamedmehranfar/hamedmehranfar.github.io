@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erhaltung und Inspektion | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/de/tag/erhaltung-und-inspektion/</link>
+      <atom:link href="https://hamedmehranfar.github.io/de/tag/erhaltung-und-inspektion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erhaltung und Inspektion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Erhaltung und Inspektion</title>
+      <link>https://hamedmehranfar.github.io/de/tag/erhaltung-und-inspektion/</link>
+    </image>
+    
+    <item>
+      <title>Automated early estimation of bridge interventions, possession windows and costs</title>
+      <link>https://hamedmehranfar.github.io/de/publication/journal-article-5/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

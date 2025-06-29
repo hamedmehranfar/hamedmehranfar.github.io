@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beiträge | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/de/post/</link>
+      <atom:link href="https://hamedmehranfar.github.io/de/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beiträge</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Beiträge</title>
+      <link>https://hamedmehranfar.github.io/de/post/</link>
+    </image>
+    
+    <item>
+      <title>Workshop mit dem Gleisleitungsteam @SBB!</title>
+      <link>https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/post/2024-01-26-workshop-with-track-management-team-sbb/</guid>
+      <description>&lt;p&gt;Heute hatten wir einen produktiven Workshop mit dem Gleisleitungsteam der SBB. Wir haben unsere Methodik zur Abschätzung des Interventionsbedarfs, der Kosten und der erforderlichen Zeitfenster in den frühen Phasen des Interventionsplanungsprozesses vorgestellt. Der Workshop wurde gut aufgenommen und wir hatten eine sehr gute Diskussion im Anschluss. Wir haben Feedback und Ideen ausgetauscht, wie wir diese Arbeit verbessern und an die spezifischen Bedürfnisse und Herausforderungen des SBB-Netzes anpassen können. Ich freue mich auf eine engere Zusammenarbeit mit dem SBB-Team, um die besten Wege zur Umsetzung dieser Arbeit zu finden und ihre Entscheidungsfindung im Interventionsplanungsprozess zu unterstützen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frühlingssemester 2024</title>
+      <link>https://hamedmehranfar.github.io/de/post/fruhling-semester-2024/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/post/fruhling-semester-2024/</guid>
+      <description>&lt;p&gt;Ich freue mich, mitteilen zu können, dass ich im Semester FS2024 sechs Studierende betreuen werde. Zwei davon sind Masterprojekte, die sich auf die Analyse von Fehlerrisiken der Verkehrsinfrastruktur konzentrieren, und vier von ihnen sind Bachelorarbeiten, die darauf abzielen, den Finanzbedarf für das Management der &lt;a href=&#34;https://www.szu.ch/de/willkommen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SZU&lt;/a&gt; Infrastrukturen zu schätzen. Dies sind sehr wichtige Themen im Bereich des Infrastrukturmanagements, und ich freue mich darauf, mit diesen Studenten zusammenzuarbeiten und ihnen zu helfen, ihre Ziele zu erreichen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

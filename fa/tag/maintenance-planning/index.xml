@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maintenance Planning | حامد مهران‌فر</title>
+    <link>https://hamedmehranfar.github.io/fa/tag/maintenance-planning/</link>
+      <atom:link href="https://hamedmehranfar.github.io/fa/tag/maintenance-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maintenance Planning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fa-IR</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Maintenance Planning</title>
+      <link>https://hamedmehranfar.github.io/fa/tag/maintenance-planning/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing Multicomponent Intervention Programs Considering Costs, Interdependencies, Possession Windows, and Service Loss Risks</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-7/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-7/</guid>
+      <description>&lt;h2 id=&#34;practical-applications&#34;&gt;Practical Applications&lt;/h2&gt;
+&lt;p&gt;The methodology presented in this paper enables infrastructure managers, such as network and production planners, involved in the later phases of the intervention planning process, to leverage digitalization for generating a consistent and complete overview of optimal multicomponent intervention programs. This is achieved by taking into account multiple features, such as the location of components on the infrastructure network, interdependencies between interventions, possible possession windows to execute interventions, the impact on service, failure risks, and budget. This facilitates informed decision-making and effective communication between managers. To show the usefulness of the methodology presented in the paper, two scenarios are considered: one that accounts for interdependencies between multicomponent interventions and another that does not. Currently, infrastructure managers often consider the interdependencies between interventions for the determination of intervention program, but they might neglect doing so when they deal with a complex railway network. Therefore, ignoring all interdependencies represents an extreme case where such considerations are absent. The results show that considering interdependencies improves the net benefit of executing multicomponent interventions by approximately 58%, i.e., 15 million monetary unit in the period between t=6 to t=10.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-an-example-spatial-temporal-overview-of-the-first-intervention-group-overlapped-with-the-train-timetable-in-the-first-year-between-t11-and-t15-on-weekly-and-hourly-basis-respectively-using-asset-level-a-c-and-using-component-level-b-d-information&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./Final.svg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      An example spatial-temporal overview of the first intervention group overlapped with the train timetable in the first year between t=11 and t=15 on weekly, and hourly basis respectively using asset level (a), (c), and using component level (b), (d) information
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Railway Track Intervention Planning: Accounting for Component Interactions and Evolving Failure Risks</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-6/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>حامد مهران‌فر</title>
+    <link>https://hamedmehranfar.github.io/fa/</link>
+      <atom:link href="https://hamedmehranfar.github.io/fa/index.xml" rel="self" type="application/rss+xml" />
+    <description>حامد مهران‌فر</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fa-IR</language><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>حامد مهران‌فر</title>
+      <link>https://hamedmehranfar.github.io/fa/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing Multicomponent Intervention Programs Considering Costs, Interdependencies, Possession Windows, and Service Loss Risks</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-7/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-7/</guid>
+      <description>&lt;h2 id=&#34;practical-applications&#34;&gt;Practical Applications&lt;/h2&gt;
+&lt;p&gt;The methodology presented in this paper enables infrastructure managers, such as network and production planners, involved in the later phases of the intervention planning process, to leverage digitalization for generating a consistent and complete overview of optimal multicomponent intervention programs. This is achieved by taking into account multiple features, such as the location of components on the infrastructure network, interdependencies between interventions, possible possession windows to execute interventions, the impact on service, failure risks, and budget. This facilitates informed decision-making and effective communication between managers. To show the usefulness of the methodology presented in the paper, two scenarios are considered: one that accounts for interdependencies between multicomponent interventions and another that does not. Currently, infrastructure managers often consider the interdependencies between interventions for the determination of intervention program, but they might neglect doing so when they deal with a complex railway network. Therefore, ignoring all interdependencies represents an extreme case where such considerations are absent. The results show that considering interdependencies improves the net benefit of executing multicomponent interventions by approximately 58%, i.e., 15 million monetary unit in the period between t=6 to t=10.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-an-example-spatial-temporal-overview-of-the-first-intervention-group-overlapped-with-the-train-timetable-in-the-first-year-between-t11-and-t15-on-weekly-and-hourly-basis-respectively-using-asset-level-a-c-and-using-component-level-b-d-information&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./Final.svg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      An example spatial-temporal overview of the first intervention group overlapped with the train timetable in the first year between t=11 and t=15 on weekly, and hourly basis respectively using asset level (a), (c), and using component level (b), (d) information
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Railway Track Intervention Planning: Accounting for Component Interactions and Evolving Failure Risks</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-6/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participating in TRA 2024</title>
+      <link>https://hamedmehranfar.github.io/fa/talk/participating-in-tra-2024/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/talk/participating-in-tra-2024/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;OpenStreetMap with Leaflet&lt;/title&gt;
+    &lt;meta charset=&#34;utf-8&#34; /&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.css&#34; integrity=&#34;sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==&#34; crossorigin=&#34;&#34;/&gt;
+    &lt;style&gt;
+        #map {
+            height: 400px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
+    &lt;script src=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.js&#34; integrity=&#34;sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==&#34; crossorigin=&#34;&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;
+        var map = L.map(&#39;map&#39;).setView([53.325863871166106, -6.22925877571106], 16);
+        L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, {
+            attribution: &#39;Map data © &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,
+            maxZoom: 18,
+        }).addTo(map);
+        var marker = L.marker([53.325863871166106, -6.22925877571106]).addTo(map);
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h2 id=&#34;transport-research-arena-tra&#34;&gt;Transport Research Arena (TRA)&lt;/h2&gt;
+&lt;p&gt;I will be participating in the Transport Research Arena 2024 (TRA2024), the largest European research and innovation conference on transport and mobility. I will be presenting our research titled &amp;ldquo;&lt;em&gt;&lt;strong&gt;Improving the planning of future track interventions using digital tools&lt;/strong&gt;&lt;/em&gt;&amp;rdquo;, which showcases the a part of STABILITY research project. The paper demonstrates how digital tools are to be used for improving the planning of future track interventions.&lt;/p&gt;
+&lt;p&gt;I am looking forward to meeting experts from academia and industry and exchanging ideas. I also look forward to closely get to know the latest developments and innovations in the transport sector, as well as expanding my network and exploring new collaboration opportunities.&lt;/p&gt;
+&lt;p&gt;I hope to see you in Dublin!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated early estimation of bridge interventions, possession windows and costs</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-5/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a free personal website using Hugo and GitHub</title>
+      <link>https://hamedmehranfar.github.io/fa/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/</guid>
+      <description>&lt;p&gt;Since the beginning of my time at ETH, I decided to create a personal website for myself. I did try so many options such as forking and modifying GitHub webpages, using the web development tools websites like &lt;a href=&#34;https://www.wix.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wix.com&lt;/a&gt;, etc. However, none of them offered the freedom and customization options I was looking for until I found out about &lt;a href=&#34;https://pkgs.rstudio.com/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;code&gt;blogdown&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; package in &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; (in &lt;a href=&#34;https://posit.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rstudio&lt;/a&gt; in fact) that uses &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HUGO&lt;/a&gt; to build webpages. As a theme, then I decided to go with &lt;a href=&#34;https://research.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research.dev&lt;/a&gt; themes (formerly known as &lt;em&gt;Wowchemy&lt;/em&gt;).&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This post is still &lt;strong&gt;under development&lt;/strong&gt;! I get back to completing this whenever I find spare time.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo, R, and GitHub to build and host personal websites</title>
+      <link>https://hamedmehranfar.github.io/fa/slides/hugor/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/slides/hugor/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This post is still &lt;strong&gt;under development&lt;/strong&gt;! I get back to completing this whenever I find spare time.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This presentation is made thanks to the detailed description from &lt;a href=&#34;https://matteocourthoud.github.io/post/website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matteo Courthoud&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;For more detail please checkout his post!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-0-the-requirements&#34;&gt;Step 0: The requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;A GitHub account&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://posit.co/download/rstudio-desktop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rstudio&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;step1-create-a-github-repository&#34;&gt;Step1: Create a GitHub repository&lt;/h3&gt;
+&lt;div style=&#34;display: flex;text-align: justify&#34;&gt;
+&lt;div style=&#34;flex: 60%; padding: 5px;&#34;&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Go to your GitHub page and make a new repository (click on &lt;strong&gt;&lt;code&gt;+&lt;/code&gt;&lt;/strong&gt; button).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Then name the repository &lt;em&gt;username.github.io&lt;/em&gt; where &lt;em&gt;username&lt;/em&gt; is your Github username.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex: 40%; padding: 5px;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./images/gitRep.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;step2-install-blogdown-and-hugo-in-r&#34;&gt;Step2: Install Blogdown and Hugo in R&lt;/h3&gt;
+&lt;br /&gt;
+&lt;p&gt;Switch to &lt;code&gt;Rstudio&lt;/code&gt; and type the following:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Install blogdown&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;blogdown&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Install Hugo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;blogdown&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;install_hugo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;step3-create-a-local-project-repository&#34;&gt;Step3: Create a local project repository&lt;/h2&gt;
+&lt;div style=&#34;display: flex;&#34;&gt;
+&lt;div style=&#34;flex: 50%; padding: 5px;&#34;&gt;
+&lt;br /&gt;
+&lt;p&gt;In Rstudio, go to the &lt;strong&gt;files&lt;/strong&gt;, click on &lt;strong&gt;New Project&lt;/strong&gt; and select &lt;strong&gt;New Directory&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex: 50%; padding: 5px;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./images/newProj.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step4-setup-the-local-website&#34;&gt;Step4: Setup the local website&lt;/h2&gt;
+&lt;style&gt;
+.container {
+  display: flex;
+}
+.col {
+  flex: 2;
+}
+&lt;/style&gt;
+&lt;div class=&#34;container&#34;&gt;
+  &lt;div class=&#34;col&#34;&gt;&lt;span class=&#34;fragment &#34; &gt;
+  &lt;ol&gt;
+&lt;li&gt;Select blogdown website  
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./images/projType.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/p&gt;
+  &lt;div class=&#34;col&#34;&gt;&lt;span class=&#34;fragment &#34; &gt;
+  &lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Select the theme for your website  
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./images/finalPick.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step4-setup-the-local-website-1&#34;&gt;Step4: Setup the local website&lt;/h2&gt;
+&lt;p&gt;You can select any other theme you like such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;gcushen/hugo-academic&lt;/strong&gt; or&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;caressofsteel/hugo-story&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step5-build-your-website&#34;&gt;Step5: Build your website&lt;/h2&gt;
+&lt;div style=&#34;display: flex;text-align: justify&#34;&gt;
+&lt;div style=&#34;flex: 50%; padding: 5px;&#34;&gt;
+&lt;p&gt;In the console, type:&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;You should be able to see this message:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex: 50%; padding: 5px;&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;blogdown&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;hugo_build&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;local&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;TRUE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./images/initBuild.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step6-preview-the-website&#34;&gt;Step6: Preview the website&lt;/h2&gt;
+&lt;p&gt;To preview the website, type the following in RStudio:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;blogdown&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;serve_site&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;step7-publish-your-website-12&#34;&gt;Step7: Publish your website (1/2)&lt;/h2&gt;
+&lt;div style=&#34;display: flex&#34;&gt;
+&lt;div style=&#34;flex: 40%; padding: 5px;&#34;&gt;
+&lt;p&gt;Firstly, please go to &lt;strong&gt;&lt;code&gt;config.yaml&lt;/code&gt;&lt;/strong&gt; and change the &lt;strong&gt;&lt;code&gt;baseurl&lt;/code&gt;&lt;/strong&gt; to the url of the
+webpage you would like to publish into.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex: 60%; padding: 5px;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./images/usrName.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step7-publish-your-website-22&#34;&gt;Step7: Publish your website (2/2)&lt;/h2&gt;
+&lt;div style=&#34;display: flex&#34;&gt;
+&lt;div style=&#34;flex: 50%; padding: 5px; font-size: smaller;&#34;&gt;
+&lt;p&gt;Now, you need to push the contents of &lt;strong&gt;&lt;code&gt;public/&lt;/code&gt;&lt;/strong&gt; folder to the GitHub repository.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex: 50%; padding: 5px; font-size: smaller;&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Go to the directory of the /project/public/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; projectPath/public
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Init git in the /project/public/ folder&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Add and commit the changes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add --all
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;first version of the website&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Set origin&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin https://github.com/username/username.github.io.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Rename local branch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M main
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# And push your updates online&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin main
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;voila&#34;&gt;Voila!&lt;/h1&gt;
+&lt;p&gt;🥳🥳🥳&lt;/p&gt;
+&lt;h2 id=&#34;you-got-yourself-a-cool-website&#34;&gt;You got yourself a cool website!&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2 id=&#34;referencehttpsmatteocourthoudgithubiopostwebsite&#34;&gt;&lt;a href=&#34;https://matteocourthoud.github.io/post/website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reference&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Benders decomposition to accelerate determination of optimal railway intervention programmes</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-2/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient early estimates of bridge interventions:Costs, required possession times and associated failure risks</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/conference-paper-1/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/conference-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of bridge component condition states with varying data availability</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/conference-paper-3/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/conference-paper-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation at ILACCE 2023</title>
+      <link>https://hamedmehranfar.github.io/fa/talk/presentation-at-ilacce-2023/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/talk/presentation-at-ilacce-2023/</guid>
+      <description>&lt;h2 id=&#34;ialcce-2023&#34;&gt;IALCCE 2023&lt;/h2&gt;
+&lt;p&gt;It was a great chance to get to know brilliant people working on different aspects of civil engineering. In our special session, we had 6 speakers and had a fruitful discussion after each presentation. The topics presented in the special session include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Decentralized control-based intervention policies for road networks&lt;/em&gt; by &lt;strong&gt;Y. Nakazato&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Efficient early estimates of bridge interventions: costs, required possession times and associated failure risks&lt;/em&gt; by &lt;strong&gt;H. Mehranfar&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Estimation of bridge component condition states with varying data availability&lt;/em&gt; by &lt;strong&gt;S. Chuo&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;State-of-the-art in the use of responsive systems for the built environment&lt;/em&gt; by &lt;strong&gt;C. Martani&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Digital twins in construction practice — A use case driven implementation based on existing theory&lt;/em&gt; by &lt;strong&gt;I. Zinke&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Advanced life-cycle assessment of reinforced concrete bridges using digital twin&lt;/em&gt; by &lt;strong&gt;J. Rymeš&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving operational efficiency of iron ore logistics by rail using simulation</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-1/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervising theses and projects</title>
+      <link>https://hamedmehranfar.github.io/fa/supervision/content/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/supervision/content/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+
+--&gt;
+&lt;p&gt;I have had a chance to supervise multiple Bachelor and Master theses as well as Master projects. Here is the detailed list of the theses and projects that I was involved in:&lt;/p&gt;
+&lt;h1 id=&#34;bachelor-theses&#34;&gt;Bachelor theses:&lt;/h1&gt;
+&lt;p&gt;&lt;span style=&#34;color: gray;&#34;&gt;Name, Title of the thesis, Major&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;spring-semester-2022&#34;&gt;Spring semester 2022:&lt;/h3&gt;
+  &lt;li&gt; &lt;strong&gt;Maksim Borovlev&lt;/strong&gt;, Estimation of financial needs and condition of level crossings in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34;&gt;SZU&lt;/a&gt; railway network, Civil Engineering&lt;/li&gt;
+  &lt;li&gt; &lt;strong&gt;Cyrill Habegger&lt;/strong&gt;, Estimation of financial needs and condition of bridges in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34;&gt;SZU&lt;/a&gt; railway network, Civil Engineering&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Elisabetta Job&lt;/strong&gt;, Estimation of financial needs and condition of retaining walls in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34;&gt;SZU&lt;/a&gt; railway network, Civil Engineering&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emma Livio&lt;/strong&gt;, Estimation of financial needs and condition of tracks and switches in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34;&gt;SZU&lt;/a&gt; railway network, Civil Engineering&lt;/li&gt;
+   &lt;li&gt;&lt;strong&gt;Yannick Schwizer&lt;/strong&gt;, Estimation of financial needs and condition of tunnels in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34;&gt;SZU&lt;/a&gt; railway network, Civil Engineering&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jonathan Wilp&lt;/strong&gt;, Estimation of financial needs and condition of culverts in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34;&gt;SZU&lt;/a&gt; railway network, Civil Engineering&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;h1 id=&#34;master-projects&#34;&gt;Master projects:&lt;/h1&gt;
+&lt;p&gt;&lt;span style=&#34;color: gray;&#34;&gt;Name, Title of the thesis, Major&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;spring-semester-2022-1&#34;&gt;Spring semester 2022:&lt;/h3&gt;
+  &lt;li&gt; &lt;strong&gt;Magnus List&lt;/strong&gt;, Planning and evaluation of interventions on &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34;&gt;SBB&lt;/a&gt; bridges considering the deterioration behaviour of the components, Construction and Maintenance Management&lt;/li&gt;
+  &lt;li&gt; &lt;strong&gt;Jonas Imfeld&lt;/strong&gt;, Predicting future interventions on &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34;&gt;SBB&lt;/a&gt; track sections considering the behavior of components and the associated risks, Construction and Maintenance Management&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;h3 id=&#34;autumn-semester-2022&#34;&gt;Autumn semester 2022:&lt;/h3&gt;
+  &lt;li&gt; &lt;strong&gt;Maria Hernandez&lt;/strong&gt;, Connecting intervention predictions of &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34;&gt;SBB&lt;/a&gt; railway tracks to BIM, Geotechnical Engineering&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;h3 id=&#34;spring-semester-2023&#34;&gt;Spring semester 2023:&lt;/h3&gt;
+  &lt;li&gt; &lt;strong&gt;Sebastian Harder&lt;/strong&gt;, Establishing the type and exactness of information to be communicated between intervention planners and train schedulers in the &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34;&gt;SBB&lt;/a&gt; intervention planning process, Transport Systems&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;h3 id=&#34;autumn-semester-2023&#34;&gt;Autumn semester 2023:&lt;/h3&gt;
+ &lt;li&gt;&lt;strong&gt;Céline Hofer&lt;/strong&gt;, Estimate probability of road asset failure using fault tree analysis: &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34;&gt;ASTRA&lt;/a&gt; tunnel &#34;Tunnel du flonzaley&#34;, Structural Engineering&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ellen Fulton&lt;/strong&gt;, Estimate probability of road asset failure using fault tree analysis: &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34;&gt;ASTRA&lt;/a&gt; bridge &#34;pont sur la mèbre&#34;, Structural Engineering&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Annina Wehrli&lt;/strong&gt;, Estimate probability of road asset failure using fault tree analysis: &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34;&gt;ASTRA&lt;/a&gt; bridge &#34;pont sur la pétause&#34;, Structural Engineering&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pascal Oswald&lt;/strong&gt;, Estimating future interventions on the &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34;&gt;ASTRA&lt;/a&gt; bridge &#34;pont sur la mèbre&#34; using probabilistic discrete modelling and Monte Carlo simulations, Structural Engineering&lt;/li&gt; 
+&lt;h1 id=&#34;master-theses&#34;&gt;Master theses:&lt;/h1&gt;
+&lt;p&gt;&lt;span style=&#34;color: gray;&#34;&gt;Name, Title of the thesis, Major&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;spring-semester-2022p&#34;&gt;Spring semester 2022:&lt;/p&gt;&lt;/h3&gt;
+  &lt;li&gt; &lt;strong&gt;Alex Albertini&lt;/strong&gt;, Planning of component-level intervention on &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34;&gt;SBB&lt;/a&gt; bridges considering gradual and sudden events, Structural Engineering&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Josia Meier&lt;/strong&gt;,An operations research model to determine &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34;&gt;SZU&lt;/a&gt; railway infrastructure intervention programmes considering all assets and their interconnectivity, Spatial Develelopment &amp; Infrastracture Systems Engineering&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;h3 id=&#34;autumn-semester-2022p&#34;&gt;Autumn semester 2022:&lt;/p&gt;&lt;/h3&gt;
+  &lt;li&gt; &lt;strong&gt;Andreas Stolz&lt;/strong&gt;, Connecting the future predictions for &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34;&gt;SBB&lt;/a&gt; bridges to BIM , Civil Engineering (TU Münschen)&lt;/li&gt;
+&lt;h3 id=&#34;spring-semester-2023-1&#34;&gt;Spring semester 2023:&lt;/h3&gt;
+  &lt;li&gt; &lt;strong&gt;Ramona Hasler&lt;/strong&gt;, Predicting future interventions on the &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34;&gt;ASTRA&lt;/a&gt; bridge &#34;pont sur la paudèze&#34; using monte carlo simulations, Construction and Maintenance Management&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lukas Klingenbeck&lt;/strong&gt;, Estimate the probability of road asset failure using fault tree analysis: A case study of &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34;&gt;ASTRA&lt;/a&gt; bridge &#34;pont sur la paudèze&#34;, Structural Engineering&lt;/li&gt;
+    &lt;li&gt; &lt;strong&gt;Patrick Walz&lt;/strong&gt;, Predicting future inteverventions on the &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34;&gt;ASTRA&lt;/a&gt; bridge &#34;pont sur la lutrive&#34; using monte carlo simulations, Structural Engineering&lt;/li&gt;
+    &lt;li&gt; &lt;strong&gt;Erik Huo&lt;/strong&gt;, Integrated planning of highway interventions between Lausanne and Vevey , Spatial Develelopment &amp; Infrastracture Systems Engineering&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;li&gt; &lt;strong&gt;Ghent Elsani&lt;/strong&gt;, Connecting the future predictions for &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34;&gt;SBB&lt;/a&gt; bridges to BIM , Civil Engineering (TU Münschen)&lt;/li&gt;
+&lt;h3 id=&#34;autumn-semester-2023-1&#34;&gt;Autumn semester 2023:&lt;/h3&gt;
+ &lt;li&gt;&lt;strong&gt;Emma Zeindl&lt;/strong&gt;, Connecting the future predictions for &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34;&gt;SBB&lt;/a&gt; bridges to BIM, Spatial Develelopment &amp; Infrastracture Systems Engineering&lt;/li&gt;</description>
+    </item>
+    
+    <item>
+      <title>STABILITY</title>
+      <link>https://hamedmehranfar.github.io/fa/project/stability/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/project/stability/</guid>
+      <description>&lt;p&gt;The future of rail transport will be one where trains carrying passengers and goods flow seamlessly from their origins to their destinations. Potential disruptions due to train incidents will be foreseen with the extensive use of surveillance technologies, and either prevented through the implementation of detailed action plans or their consequences eliminated with the seamless rerouting of trains. Interventions on the infrastructure, whether it be the grinding of tracks, or expansion of train stations, will be carried out in perfectly allotted slots in train
+schedules. Train schedules will be stable and the use of train schedule reserves will be maximized.&lt;/p&gt;
+&lt;p&gt;STABILITY will develop tools to enable the realization of the latter part of this future. It will include the development of a new integrated train schedule – intervention planning process that enables the optimal exploitation of digital tools.
+This process will&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;enable the use of mathematical models built using state‐of‐the‐art concepts, i.e.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;mixed integer linear programming models or heuristics to determine the optimal work to be performed at predefined times in train schedules on assets considering asset specific characteristics,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dynamic Bayesian networks to predict the future asset states and their levels of uncertainty, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;multivariate Kriging to ensure correct estimates of current asset states when there are incomplete data sets,&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;include the automated transfer of asset and intervention specific information contained in multiple databases at specific time points to facilitate the running of the mathematical models to generate idealized windows for interventions, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;include the automated recalculation of the exact activities to ensure train schedule stability between the fixed windows, with increasing levels of exactitude as the windows near. STABILITY will enable a digital revolution in railway intervention planning that will help ensure
+both train schedule stability and the maximum use of train schedule reserves.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Major Factor Affecting Freight Train Collision Severity At Road-Rail Level Crossing Using Multinomial Logit Model</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/conference-paper-2/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Fleet Allocation</title>
+      <link>https://hamedmehranfar.github.io/fa/project/smart-fleet-allocation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/project/smart-fleet-allocation/</guid>
+      <description>&lt;p&gt;In this project a a digital tool was developed for improving the decision making about the taking different operation policies on how to dispatch and distribute the cargo wagon across the railway network in Iran. The project employed a mixture of optimization models and data analysis to provide optimal solutions for various scenarios for minimizing operational costs, maximizing availability of wagons. The project delivered a user-friendly interface using &lt;a href=&#34;https://www.anylogic.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AnyLogic©&lt;/a&gt; that helps the decision makers in planning and executing the fleet allocation strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Efficiency of Mineral Terminal Performance using Lean Railroading</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-3/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://hamedmehranfar.github.io/fa/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Efficiency of Mineral Terminal Performance using Lean Railroading</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/conference-paper-4/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/conference-paper-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS-based sustainable model for dangerous goods transportation:A case study of crude oil transit</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/conference-paper-5/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/conference-paper-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cargo for Rail</title>
+      <link>https://hamedmehranfar.github.io/fa/project/cargo-for-rail/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/project/cargo-for-rail/</guid>
+      <description>&lt;p&gt;In this project a a decision aiding tool was developed for improving the decision making about the taking different operation policies on how to improve the efficiency of operations related to logistics of mineral cargo with rail. The project analyses the current situation and assessed multiple improvement policies using discrete event simulation in &lt;a href=&#34;https://www.interdynamics.com/decision-support-software-solutions/planimate-simulation-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planimate©&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Analysis of Stationary Rail Cars Containing Hazardous Materials; A Case Study</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/journal-article-4/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/journal-article-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Analysis of Stationary Hazardous Materials Rail Cars; A Case Study</title>
+      <link>https://hamedmehranfar.github.io/fa/publication/conference-paper-6/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/publication/conference-paper-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hamedmehranfar.github.io/fa/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

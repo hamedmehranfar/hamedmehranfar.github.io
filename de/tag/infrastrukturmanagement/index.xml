@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastrukturmanagement | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/de/tag/infrastrukturmanagement/</link>
+      <atom:link href="https://hamedmehranfar.github.io/de/tag/infrastrukturmanagement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Infrastrukturmanagement</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Infrastrukturmanagement</title>
+      <link>https://hamedmehranfar.github.io/de/tag/infrastrukturmanagement/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing Multicomponent Intervention Programs Considering Costs, Interdependencies, Possession Windows, and Service Loss Risks</title>
+      <link>https://hamedmehranfar.github.io/de/publication/journal-article-7/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-7/</guid>
+      <description>&lt;h2 id=&#34;practical-applications&#34;&gt;Practical Applications&lt;/h2&gt;
+&lt;p&gt;The methodology presented in this paper enables infrastructure managers, such as network and production planners, involved in the later phases of the intervention planning process, to leverage digitalization for generating a consistent and complete overview of optimal multicomponent intervention programs. This is achieved by taking into account multiple features, such as the location of components on the infrastructure network, interdependencies between interventions, possible possession windows to execute interventions, the impact on service, failure risks, and budget. This facilitates informed decision-making and effective communication between managers. To show the usefulness of the methodology presented in the paper, two scenarios are considered: one that accounts for interdependencies between multicomponent interventions and another that does not. Currently, infrastructure managers often consider the interdependencies between interventions for the determination of intervention program, but they might neglect doing so when they deal with a complex railway network. Therefore, ignoring all interdependencies represents an extreme case where such considerations are absent. The results show that considering interdependencies improves the net benefit of executing multicomponent interventions by approximately 58%, i.e., 15 million monetary unit in the period between t=6 to t=10.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-an-example-spatial-temporal-overview-of-the-first-intervention-group-overlapped-with-the-train-timetable-in-the-first-year-between-t11-and-t15-on-weekly-and-hourly-basis-respectively-using-asset-level-a-c-and-using-component-level-b-d-information&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./Final.svg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      An example spatial-temporal overview of the first intervention group overlapped with the train timetable in the first year between t=11 and t=15 on weekly, and hourly basis respectively using asset level (a), (c), and using component level (b), (d) information
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Railway Track Intervention Planning: Accounting for Component Interactions and Evolving Failure Risks</title>
+      <link>https://hamedmehranfar.github.io/de/publication/journal-article-6/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient early estimates of bridge interventions:Costs, required possession times and associated failure risks</title>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Präsentation bei der ILACCE 2023</title>
+      <link>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/talk/prasentation-bei-der-ilacce-2023/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;OpenStreetMap with Leaflet&lt;/title&gt;
+    &lt;meta charset=&#34;utf-8&#34; /&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.css&#34; integrity=&#34;sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==&#34; crossorigin=&#34;&#34;/&gt;
+    &lt;style&gt;
+        #map {
+            height: 400px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
+    &lt;script src=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.js&#34; integrity=&#34;sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==&#34; crossorigin=&#34;&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;
+        var map = L.map(&#39;map&#39;).setView([45.478093, 9.2245326], 16);
+        L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, {
+            attribution: &#39;Map data © &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,
+            maxZoom: 18,
+        }).addTo(map);
+        var marker = L.marker([45.478093, 9.2245326]).addTo(map);
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h2 id=&#34;ialcce-2023&#34;&gt;IALCCE 2023&lt;/h2&gt;
+&lt;p&gt;Es war eine grossartige Möglichkeit, brillante Leute kennenzulernen, die an verschiedenen Aspekten des Bauwesens forschen. An unserer Sondersitzung nahmen 6 Redner teil, und nach ihren Präsentationen gab es jeweils eine anregende Diskussion. Die Themen der Sondersitzung sind unter anderem folgende:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Decentralized control-based intervention policies for road networks&lt;/em&gt; by &lt;strong&gt;Y. Nakazato&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Efficient early estimates of bridge interventions: costs, required possession times and associated failure risks&lt;/em&gt; by &lt;strong&gt;H. Mehranfar&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Estimation of bridge component condition states with varying data availability&lt;/em&gt; by &lt;strong&gt;S. Chuo&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;State-of-the-art in the use of responsive systems for the built environment&lt;/em&gt; by &lt;strong&gt;C. Martani&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Digital twins in construction practice — A use case driven implementation based on existing theory&lt;/em&gt; by &lt;strong&gt;I. Zinke&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Advanced life-cycle assessment of reinforced concrete bridges using digital twin&lt;/em&gt; by &lt;strong&gt;J. Rymeš&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STABILITY</title>
+      <link>https://hamedmehranfar.github.io/de/project/stability/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/project/stability/</guid>
+      <description>&lt;p&gt;Die Zukunft des Schienenverkehrs wird darin liegen, dass Züge, die Passagiere und Güter transportieren, sich nahtlos von ihrem Ursprung hin zu ihrem Ziel bewegen. Potenzielle Störungen aufgrund von Zugunfällen sollen durch den umfassenden Einsatz von Überwachungstechnologien vorhergesehen und entweder durch die Umsetzung detaillierter Aktionspläne verhindert oder deren Folgen durch die nahtlose Umleitung von Zügen eliminiert werden. Zukünftig sollen Eingriffe in die Infrastruktur, sei es das Schleifen von Gleisen oder der Ausbau von Bahnhöfen, in perfekt zugewiesenen Zeitfenstern innerhalb der Fahrpläne durchgeführt werden. Die Fahrpläne bleiben stabil und die Nutzung der Fahrplanreserven maximiert werden.&lt;/p&gt;
+&lt;p&gt;Das Projekt STABILITY wird die Werkzeuge für die Ermöglichung des letzteren Zukunftsszenarios entwickeln. Dazu gehört die Entwicklung eines neuen integrierten Zugfahrplan-​Einsatzplanungsprozesses, der die optimale Nutzung digitaler Werkzeuge ermöglicht.
+Dieser Prozess wird&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;den Einsatz von mathematischen Modellen ermöglichen, die nach modernsten Konzepten aufgebaut sind, d. h.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;gemischt-​ganzzahlige lineare Programmiermodelle oder Heuristiken, um die optimalen Arbeiten zu bestimmen, die zu vordefinierten Zeitpunkten in den Zugfahrplänen an den Anlagen unter Berücksichtigung der anlagenspezifischen Eigenschaften durchzuführen sind,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dynamische Bayes&amp;rsquo;sche Netze zur Vorhersage der zukünftigen Anlagenzustände und ihrer Unsicherheitsgrade und&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;multivariates Kriging, um korrekte Schätzungen der aktuellen Anlagenzustände zu gewährleisten, wenn unvollständige Datensätze vorhanden sind&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;die automatische Übertragung von asset-​ und interventionsspezifischen Informationen, die in mehreren Datenbanken zu bestimmten Zeitpunkten enthalten sind, um die Ausführung der mathematischen Modelle zu erleichtern, damit idealisierte Fenster für Interventionen generiert warden können, und&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;die automatische Neuberechnung der exakten Aktivitäten beinhalten, um die Stabilität des Zugfahrplans zwischen den festgelegten Zeitfenstern zu gewährleisten, wobei die Genauigkeit mit dem Näherrücken eines einzelnen Zeitfensters zunimmt. STABILITY wird eine digitale Revolution in der Eisenbahn-​Eingriffsplanung ermöglichen, die sowohl die Fahrplanstabilität als auch die maximale Nutzung der Fahrplanreserven sicherstellen wird.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistische Analyse | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/de/tag/statistische-analyse/</link>
+      <atom:link href="https://hamedmehranfar.github.io/de/tag/statistische-analyse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistische Analyse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Statistische Analyse</title>
+      <link>https://hamedmehranfar.github.io/de/tag/statistische-analyse/</link>
+    </image>
+    
+    <item>
+      <title>Major Factor Affecting Freight Train Collision Severity At Road-Rail Level Crossing Using Multinomial Logit Model</title>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-2/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Fleet Allocation</title>
+      <link>https://hamedmehranfar.github.io/de/project/smart-fleet-allocation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/project/smart-fleet-allocation/</guid>
+      <description>&lt;p&gt;In diesem Projekt wurde ein Digital-Tool entwickelt, um die Entscheidungsfindung über verschiedene Betriebsstrategien für den Versand und die Verteilung von Güterwagen über das iranische Eisenbahnnetz zu verbessern. Im Rahmen des Projekts wurde eine Kombination aus Optimierungsmodellen und Datenanalysen verwendet, um optimale Lösungen für verschiedene Szenarien zur Minimierung der Betriebskosten und Maximierung der Güterwagenverfügbarkeit zu finden. Das Projekt lieferte eine benutzerfreundliche Schnittstelle unter Verwendung von [AnyLogic©] (&lt;a href=&#34;https://www.anylogic.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.anylogic.com/)&lt;/a&gt;, die den Entscheidungsträgern bei der Planung und Ausführung der Flottenzuweisungsstrategien hilfreich ist.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GIS-based sustainable model for dangerous goods transportation:A case study of crude oil transit</title>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-5/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cargo for Rail</title>
+      <link>https://hamedmehranfar.github.io/de/project/cargo-for-rail/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/project/cargo-for-rail/</guid>
+      <description>&lt;p&gt;In diesem Projekt wurde eine Entscheidungshilfe entwickelt, um die Entscheidungsfindung über die Durchführung verschiedener Strategien zur Verbesserung der Effizienz von Operationen im Zusammenhang mit der Eisenbahnlogistik von Mineralgütern zu verbessern. Das Projekt analysiert die aktuelle Situation und bewertet mehrere Verbesserungskonzepte mittels Ereignisorientierter Simulation unter Verwendung der Software &lt;a href=&#34;https://www.interdynamics.com/decision-support-software-solutions/planimate-simulation-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planimate©&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Analysis of Stationary Rail Cars Containing Hazardous Materials; A Case Study</title>
+      <link>https://hamedmehranfar.github.io/de/publication/journal-article-4/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/journal-article-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

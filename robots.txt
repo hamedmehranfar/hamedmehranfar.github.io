@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hamedmehranfar.github.io/sitemap.xml

@@ -1,0 +1,33 @@
+---
+title: Create a free personal website using Hugo and GitHub
+author: admin
+date: '2023-11-07'
+slug: []
+categories:
+  - ETH
+  - R
+tags:
+  - Hobby
+  - R
+  - Rstudio
+subtitle: Creating your own website without knowing much about webdesigning
+summary: In this post we will see the first steps to create your own website in [Rstudio](https://posit.co/), like the one you see here, and deploy and host it on GitHub.
+authors:
+  - admin
+lastmod: '2023-11-07T10:53:05+01:00'
+featured: no
+draft: no
+image:
+  caption: Image credit:[**Pinterest**](https://www.pinterest.ch/)
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: HugoR
+
+---
+Since the beginning of my time at ETH, I decided to create a personal website for myself. I did try so many options such as forking and modifying GitHub webpages, using the web development tools websites like [Wix.com](https://www.wix.com/), etc. However, none of them offered the freedom and customization options I was looking for until I found out about [**`blogdown`**](https://pkgs.rstudio.com/blogdown/) package in [R](https://www.R-project.org/) (in [Rstudio](https://posit.co/) in fact) that uses [HUGO](https://gohugo.io/) to build webpages. As a theme, then I decided to go with [research.dev](https://research.dev/) themes (formerly known as *Wowchemy*).
+
+
+{{% callout note %}}
+This post is still **under development**! I get back to completing this whenever I find spare time. 
+{{% /callout %}}

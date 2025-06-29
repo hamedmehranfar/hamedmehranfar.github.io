@@ -1,0 +1,174 @@
+---
+abstract: 
+address: 
+  city: 
+  country: 
+  postcode: 
+  region: 
+  street: 
+all_day: false
+authors:
+  - admin
+date: "2020-09-01"
+date_end: "2024-12-01"
+event: 
+event_url: false
+featured: false
+image: 
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/FlPc9_VocJ4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)'
+  focal_point: Right
+links:
+<!-- icon: twitter
+  icon_pack:fab
+  name:Follow
+  url:https://twitter.com/georgecushen -->
+location: ETH Zürich, Switzerland
+projects:
+
+publishDate: ""
+slides: "" 
+summary: I have had a chance to supervise multiple Bachelor and Master theses as well as Master projects.
+tags: ["ETH", "STABILITY", "Supervision"]
+title: Supervising theses and projects
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+<!--
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+
+-->
+I have had a chance to supervise multiple Bachelor and Master theses as well as Master projects. Here is the detailed list of the theses and projects that I was involved in:
+ 
+# Bachelor theses:
+ 
+  <span style="color: gray;">Name, Title of the thesis, Major</span>
+
+### Spring semester 2022:
+   
+  - **Maksim Borovlev**, Estimation of financial needs and condition of level crossings in the SZU railway network, Civil Engineering
+  - **Cyrill Habegger**, Estimation of financial needs and condition of bridges in the [SZU](https://www.szu.ch) railway network, Civil Engineering
+  - **Elisabetta Job**, Estimation of financial needs and condition of retaining walls in the [SZU](https://www.szu.ch) railway network, Civil Engineering
+  - **Emma Livio**, Estimation of financial needs and condition of tracks and switches in the [SZU](https://www.szu.ch) railway network, Civil Engineering
+  - **Yannick Schwizer**, Estimation of financial needs and condition of tunnels in the [SZU](https://www.szu.ch) railway network, Civil Engineering
+  - **Jonathan Wilp**, Estimation of financial needs and condition of culverts in the [SZU](https://www.szu.ch) railway network, Civil Engineering
+
+
+### Spring semester 2024:
+- **Léa Dumond**, Estimation of financial needs and condition of infrastructure objects, Civil Engineering
+-  
+
+# Master projects:
+  
+  <span style="color: gray;">Name, Title of the thesis, Major</span>
+
+### Spring semester 2022:
+ 
+ - **Magnus List**, Planning and evaluation of interventions on [SBB](https://company.sbb.ch) bridges considering the deterioration behavior of the components, Construction and Maintenance Management
+- **Jonas Imfeld**, Predicting future interventions on [SBB](https://company.sbb.ch) track sections considering the behavior of components and the associated risks, Construction and Maintenance Management
+
+
+### Autumn semester 2022:
+  
+- **Maria Hernandez**, Connecting intervention predictions of [SBB](https://company.sbb.ch) railway tracks to BIM, Geotechnical Engineering
+
+
+### Spring semester 2023:
+   
+- **Sebastian Harder**, Establishing the type and exactness of information to be communicated between intervention planners and train schedulers in the [SBB](https://company.sbb.ch) intervention planning process, Transport Systems Engineering
+
+    
+### Autumn semester 2023:
+
+- **Céline Hofer**, Estimate probability of road asset failure using fault tree analysis: [ASTRA tunnel "Tunnel du flonzaley"](https://www.astra.admin.ch), Civil Engineering
+- **Ellen Fulton**, Estimate probability of road asset failure using fault tree analysis: [ASTRA bridge "pont sur la mèbre"](https://www.astra.admin.ch), Civil Engineering
+- **Annina Wehrli**, Estimate probability of road asset failure using fault tree analysis: [ASTRA bridge "pont sur la pétause"](https://www.astra.admin.ch), Civil Engineering
+- **Pascal Oswald**, Estimating future interventions on the [ASTRA bridge "pont sur la mèbre"](https://www.astra.admin.ch) using probabilistic discrete modelling and Monte Carlo simulations, Civil Engineering
+
+  
+# Master theses: 
+  
+<span style="color: gray;">Name, Title of the thesis, Major</span>
+
+### Spring semester 2022:</p>
+  
+- **Alex Albertini**, Planning of component-level intervention on [SBB](https://company.sbb.ch) bridges considering gradual and sudden events, Civil Engineering
+- **Josia Meier**, An operations research model to determine [SZU](https://www.szu.ch) railway infrastructure intervention programmes considering all assets and their interconnectivity, Spatial Development & Infrastructure Systems Engineering
+
+    
+### Autumn semester 2022:</p>
+  
+- **Andreas Stolz**, Connecting the future predictions for [SBB](https://company.sbb.ch) bridges to BIM <sup>*</sup>, Civil Engineering <br /><span style="color: gray;"><sup> \*Note: This was a collaboration with **TU München**</span>
+
+
+### Spring semester 2023:
+   
+- **Ramona Hasler**, Predicting future interventions on the [ASTRA](https://www.astra.admin.ch) bridge "pont sur la paudèze" using Monte Carlo simulations, Construction and Maintenance Management
+- **Lukas Klingenbeck**, Estimate the probability of road asset failure using fault tree analysis: A case study of [ASTRA](https://www.astra.admin.ch) bridge "pont sur la paudèze", Structural Engineering
+- **Patrick Walz**, Predicting future interventions on the [ASTRA](https://www.astra.admin.ch) bridge "pont sur la lutrive" using Monte Carlo simulations, Structural Engineering
+- **Erik Huo**, Integrated planning of highway interventions between Lausanne and Vevey, Spatial Development & Infrastructure Systems Engineering
+- **Ghent Elsani**, Connecting the future predictions for [SBB](https://company.sbb.ch) bridges to BIM <sup>*</sup>, Civil Engineering <br /><span style="color: gray;"><sup> \*Note: This was a collaboration with **TU München**</span>
+  
+### Autumn semester 2023:
+
+- **Emma Zeindl**, Connecting the future predictions for [SBB](https://company.sbb.ch) bridges to BIM, Spatial Development & Infrastructure Systems Engineering
+
+
+
+
+
+
+
+
+
+<!--
+### 1. Bachelor theses
+
+| Name                  | Spring 2022 | Spring 2024 |
+| --------------------- | ----------- | ----------- |
+| 1. Maksim Borovlev    | ✔           |             |
+| 2. Cyrill Habegger    | ✔           |             |
+| 3. Elisabetta Job     | ✔           |             |
+| 4. Emma Livio         | ✔           |             |
+| 5. Yannick Schwizer   | ✔           |             |
+| 6. Jonathan Wilp      | ✔           |             |
+| 7. Léa Dumond         |             | ✔           |
+
+### 2. Master projects
+
+| Name                | Spring 2022 | Autumn 2022 | Spring 2023 | Autumn 2023 |
+| ------------------- | ----------- | ----------- | ----------- | ----------- |
+| 1. Magnus List      | ✔           |             |             |             |
+| 2. Jonas Imfeld     | ✔           |             |             |             |
+| 3. Maria Hernandez  |             | ✔           |             |             |
+| 4. Sebastian Harder  |             |             | ✔           |             |
+| 5. Céline Hofer     |             |             |             | ✔           |
+| 6. Ellen Fulton      |             |             |             | ✔           |
+| 7. Annina Wehrli     |             |             |             | ✔           |
+| 8. Pascal Oswald     |             |             |             | ✔           |
+
+### 3. Master theses
+
+| Name               | Spring 2022 | Autumn 2022 | Spring 2023 | Autumn 2023 |
+| ------------------ | ----------- | ----------- | ----------- | ----------- |
+| 1. Alex Albertini  | ✔           |             |             |             |
+| 2. Josia Meier     | ✔           |             |             |             |
+| 3. Andreas Stolz    |             | ✔           |             |             |
+| 4. Ramona Hasler   |             |             | ✔           |             |
+| 5. Lukas Klingenbeck|             |             | ✔           |             |
+| 6. Patrick Walz    |             |             | ✔           |             |
+| 7. Erik Huo        |             |             | ✔           |             |
+| 8. Ghent Elsani    |             | ✔           |             |             |
+| 9. Emma Zeindl     |             |             |             | ✔           |
+-->

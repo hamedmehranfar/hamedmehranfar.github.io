@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rstudio | حامد مهران‌فر</title>
+    <link>https://hamedmehranfar.github.io/fa/tag/rstudio/</link>
+      <atom:link href="https://hamedmehranfar.github.io/fa/tag/rstudio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rstudio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fa-IR</language><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Rstudio</title>
+      <link>https://hamedmehranfar.github.io/fa/tag/rstudio/</link>
+    </image>
+    
+    <item>
+      <title>Create a free personal website using Hugo and GitHub</title>
+      <link>https://hamedmehranfar.github.io/fa/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/fa/post/2023-11-07-create-a-free-personal-website-using-hugo-and-github/</guid>
+      <description>&lt;p&gt;Since the beginning of my time at ETH, I decided to create a personal website for myself. I did try so many options such as forking and modifying GitHub webpages, using the web development tools websites like &lt;a href=&#34;https://www.wix.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wix.com&lt;/a&gt;, etc. However, none of them offered the freedom and customization options I was looking for until I found out about &lt;a href=&#34;https://pkgs.rstudio.com/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;code&gt;blogdown&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; package in &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; (in &lt;a href=&#34;https://posit.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rstudio&lt;/a&gt; in fact) that uses &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HUGO&lt;/a&gt; to build webpages. As a theme, then I decided to go with &lt;a href=&#34;https://research.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research.dev&lt;/a&gt; themes (formerly known as &lt;em&gt;Wowchemy&lt;/em&gt;).&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This post is still &lt;strong&gt;under development&lt;/strong&gt;! I get back to completing this whenever I find spare time.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

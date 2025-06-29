@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fehlersrisiko | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/de/tag/fehlersrisiko/</link>
+      <atom:link href="https://hamedmehranfar.github.io/de/tag/fehlersrisiko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fehlersrisiko</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-CH</language><lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Fehlersrisiko</title>
+      <link>https://hamedmehranfar.github.io/de/tag/fehlersrisiko/</link>
+    </image>
+    
+    <item>
+      <title>Efficient early estimates of bridge interventions:Costs, required possession times and associated failure risks</title>
+      <link>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/de/publication/conference-paper-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

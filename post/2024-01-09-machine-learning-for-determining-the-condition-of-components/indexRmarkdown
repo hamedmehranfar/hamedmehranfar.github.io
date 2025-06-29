@@ -1,0 +1,27 @@
+---
+title: "Machine learning for determining the condition of railway asset components"
+date: "2024-01-09"
+slug: "machine-learning-for-determining-the-condition-of-components"
+output: pdf_document
+tags:
+- Maintenance & inspection
+- Infrastructure Management
+- Machine learning
+subtitle: ''
+summary: In this post, a machine learning approach is used to determine the condition
+  of railway asset components.
+authors: admin
+lastmod: "2024-01-09T14:20:17+01:00"
+featured: no
+draft: yes
+image:
+  caption: 'Credits: **BingAI**'
+  focal_point: ''
+  preview_only: no
+projects: []
+categories:
+- R
+- Hobby
+---
+
+

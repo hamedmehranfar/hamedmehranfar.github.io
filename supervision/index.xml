@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervision | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/supervision/</link>
+      <atom:link href="https://hamedmehranfar.github.io/supervision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supervision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>Supervision</title>
+      <link>https://hamedmehranfar.github.io/supervision/</link>
+    </image>
+    
+    <item>
+      <title>Supervising theses and projects</title>
+      <link>https://hamedmehranfar.github.io/supervision/content/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/supervision/content/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+
+--&gt;
+&lt;p&gt;I have had a chance to supervise multiple Bachelor and Master theses as well as Master projects. Here is the detailed list of the theses and projects that I was involved in:&lt;/p&gt;
+&lt;h3 id=&#34;master-theses&#34;&gt;Master theses:&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&#34;color: gray;&#34;&gt;Name, Title of the thesis, Major&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spring semester 2022:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Alex Albertini&lt;/strong&gt;, &lt;em&gt;Planning of component-level intervention on &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBB&lt;/a&gt; bridges considering gradual and sudden events&lt;/em&gt;, Civil Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Josia Meier&lt;/strong&gt;, &lt;em&gt;An operations research model to determine &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SZU&lt;/a&gt; railway infrastructure intervention programmes considering all assets and their interconnectivity&lt;/em&gt;, Spatial Development &amp;amp; Infrastructure Systems Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Autumn semester 2022:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Andreas Stolz&lt;/strong&gt;, &lt;em&gt;Connecting the future predictions for &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBB&lt;/a&gt; bridges to BIM&lt;/em&gt; &lt;sup&gt;*&lt;/sup&gt;, Civil Engineering &lt;br /&gt;&lt;span style=&#34;color: gray;&#34;&gt;&lt;sup&gt; *Note: This was a collaboration with &lt;strong&gt;TU München&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Spring semester 2023:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ramona Hasler&lt;/strong&gt;, &lt;em&gt;Predicting future interventions on the &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTRA&lt;/a&gt; bridge &amp;ldquo;pont sur la paudèze&amp;rdquo; using Monte Carlo simulations&lt;/em&gt;, Spatial Development &amp;amp; Infrastructure Systems Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lukas Klingenbeck&lt;/strong&gt;,&lt;em&gt;Estimate the probability of road asset failure using fault tree analysis: A case study of &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTRA&lt;/a&gt; bridge &amp;ldquo;pont sur la paudèze&amp;rdquo;&lt;/em&gt;, Civil Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Patrick Walz&lt;/strong&gt;, &lt;em&gt;Predicting future interventions on the &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTRA&lt;/a&gt; bridge &amp;ldquo;pont sur la lutrive&amp;rdquo; using Monte Carlo simulations&lt;/em&gt;, Civil Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Erik Huo&lt;/strong&gt;, &lt;em&gt;Integrated planning of highway interventions between Lausanne and Vevey&lt;/em&gt;, Spatial Development &amp;amp; Infrastructure Systems Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ghent Elsani&lt;/strong&gt;,&lt;em&gt;Connecting the future predictions for &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBB&lt;/a&gt; bridges to BIM&lt;/em&gt; &lt;sup&gt;*&lt;/sup&gt;, Civil Engineering &lt;br /&gt;&lt;span style=&#34;color: gray;&#34;&gt;&lt;sup&gt; *Note: This was a collaboration with &lt;strong&gt;TU München&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Autumn semester 2023:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Emma Zeindl&lt;/strong&gt;, &lt;em&gt;Connecting the future predictions for &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBB&lt;/a&gt; bridges to BIM,&lt;/em&gt; Spatial Development &amp;amp; Infrastructure Systems Engineering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;master-projects&#34;&gt;Master projects:&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&#34;color: gray;&#34;&gt;Name, Title of the project, Major&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spring semester 2022:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Magnus List&lt;/strong&gt;, &lt;em&gt;Planning and evaluation of interventions on &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBB&lt;/a&gt; bridges considering the deterioration behavior of the components&lt;/em&gt;, Construction and Maintenance Management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jonas Imfeld&lt;/strong&gt;, &lt;em&gt;Predicting future interventions on &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBB&lt;/a&gt; track sections considering the behavior of components and the associated risks&lt;/em&gt;, Construction and Maintenance Management&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Autumn semester 2022:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Maria Hernandez&lt;/strong&gt;, &lt;em&gt;Connecting intervention predictions of &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBB&lt;/a&gt; railway tracks to BIM&lt;/em&gt;, Geotechnical Engineering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Spring semester 2023:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Sebastian Harder&lt;/strong&gt;, &lt;em&gt;Establishing the type and exactness of information to be communicated between intervention planners and train schedulers in the &lt;a href=&#34;https://company.sbb.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBB&lt;/a&gt; intervention planning process&lt;/em&gt;, Transport Systems Engineering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Autumn semester 2023:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Céline Hofer&lt;/strong&gt;, &lt;em&gt;Estimate probability of road asset failure using fault tree analysis: &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTRA tunnel &amp;ldquo;Tunnel du flonzaley&amp;rdquo;&lt;/a&gt;&lt;/em&gt;, Civil Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ellen Fulton&lt;/strong&gt;, &lt;em&gt;Estimate probability of road asset failure using fault tree analysis: &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTRA bridge &amp;ldquo;pont sur la mèbre&amp;rdquo;&lt;/a&gt;&lt;/em&gt;, Civil Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Annina Wehrli&lt;/strong&gt;, &lt;em&gt;Estimate probability of road asset failure using fault tree analysis: &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTRA bridge &amp;ldquo;pont sur la pétause&amp;rdquo;&lt;/a&gt;&lt;/em&gt;, Civil Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pascal Oswald&lt;/strong&gt;, &lt;em&gt;Estimating future interventions on the &lt;a href=&#34;https://www.astra.admin.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTRA bridge &amp;ldquo;pont sur la mèbre&amp;rdquo;&lt;/a&gt; using probabilistic discrete modelling and Monte Carlo simulations&lt;/em&gt;, Civil Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Spring semester 2024:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Annabelle Klinkhammer&lt;/strong&gt;, &lt;em&gt;Estimate probability of road asset failure using fault tree analysis&lt;/em&gt;, Civil Engineering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Joel Regenass&lt;/strong&gt;, &lt;em&gt;Estimate probability of road asset failure using fault tree analysis&lt;/em&gt;, Civil Engineering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;bachelor-theses&#34;&gt;Bachelor theses:&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&#34;color: gray;&#34;&gt;Name, Title of the thesis, Major&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spring semester 2022:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Maksim Borovlev&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of level crossings in the SZU railway network&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cyrill Habegger&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of bridges in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SZU&lt;/a&gt; railway network&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elisabetta Job&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of retaining walls in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SZU&lt;/a&gt; railway network&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emma Livio&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of tracks and switches in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SZU&lt;/a&gt; railway network&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yannick Schwizer&lt;/strong&gt;,&lt;em&gt;Estimation of financial needs and condition of tunnels in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SZU&lt;/a&gt; railway network&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jonathan Wilp&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of culverts in the &lt;a href=&#34;https://www.szu.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SZU&lt;/a&gt; railway network&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Autumn semester 2024:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Charles Johnson&lt;/strong&gt;, &lt;em&gt;Investigation of the use of fault trees to provide systematic overviews of future railway bridge performance for managers&lt;/em&gt;&lt;sup&gt;*&lt;/sup&gt;, Civil Engineering &lt;br /&gt;&lt;span style=&#34;color: gray;&#34;&gt;&lt;sup&gt; *Note: This was a collaboration with the &lt;strong&gt;University of Edinburgh&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Spring semester 2024:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Léa Dumond&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of infrastructure objects&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jonas Ganter&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of infrastructure objects&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pit Meylender&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of infrastructure objects&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Viktoria Thulke&lt;/strong&gt;, &lt;em&gt;Estimation of financial needs and condition of infrastructure objects&lt;/em&gt;, Civil Engineernig&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!--
+### 1. Bachelor theses
+
+| Name                  | Spring 2022 | Spring 2024 |
+| --------------------- | ----------- | ----------- |
+| 1. Maksim Borovlev    | ✔           |             |
+| 2. Cyrill Habegger    | ✔           |             |
+| 3. Elisabetta Job     | ✔           |             |
+| 4. Emma Livio         | ✔           |             |
+| 5. Yannick Schwizer   | ✔           |             |
+| 6. Jonathan Wilp      | ✔           |             |
+| 7. Léa Dumond         |             | ✔           |
+
+### 2. Master projects
+
+| Name                | Spring 2022 | Autumn 2022 | Spring 2023 | Autumn 2023 |
+| ------------------- | ----------- | ----------- | ----------- | ----------- |
+| 1. Magnus List      | ✔           |             |             |             |
+| 2. Jonas Imfeld     | ✔           |             |             |             |
+| 3. Maria Hernandez  |             | ✔           |             |             |
+| 4. Sebastian Harder  |             |             | ✔           |             |
+| 5. Céline Hofer     |             |             |             | ✔           |
+| 6. Ellen Fulton      |             |             |             | ✔           |
+| 7. Annina Wehrli     |             |             |             | ✔           |
+| 8. Pascal Oswald     |             |             |             | ✔           |
+
+### 3. Master theses
+
+| Name               | Spring 2022 | Autumn 2022 | Spring 2023 | Autumn 2023 |
+| ------------------ | ----------- | ----------- | ----------- | ----------- |
+| 1. Alex Albertini  | ✔           |             |             |             |
+| 2. Josia Meier     | ✔           |             |             |             |
+| 3. Andreas Stolz    |             | ✔           |             |             |
+| 4. Ramona Hasler   |             |             | ✔           |             |
+| 5. Lukas Klingenbeck|             |             | ✔           |             |
+| 6. Patrick Walz    |             |             | ✔           |             |
+| 7. Erik Huo        |             |             | ✔           |             |
+| 8. Ghent Elsani    |             | ✔           |             |             |
+| 9. Emma Zeindl     |             |             |             | ✔           |
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

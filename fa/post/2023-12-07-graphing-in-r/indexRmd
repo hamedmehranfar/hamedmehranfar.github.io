@@ -1,0 +1,139 @@
+---
+title: Graphing in R
+author: ''
+date: '2023-12-07'
+slug: graphing-in-r
+categories:
+  - R
+tags:
+  - R
+  - Visualisation
+subtitle: ''
+summary: ''
+authors: 
+  - admin
+lastmod: '2023-12-07T13:30:08+01:00'
+featured: no
+draft: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+```{r message=FALSE, warning=FALSE}
+library(echarts4r) # charts
+library(tidyverse) # general use
+library(lubridate) # dates and times
+library(prophet) # forecasting
+library(nycflights13) # data
+```
+
+Setting up the fonts and style.
+```{r}
+e_common(font_family = "helvetica", theme = "westeros")
+```
+
+
+Then a time series aanalysis:
+
+```{r}
+flights_ts <- flights %>% 
+  transmute(week = as.Date(cut(time_hour, "week")), dep_delay, origin) %>% 
+  group_by(origin, week) %>% # works with echarts
+  summarise(dep_delay = sum(dep_delay, na.rm = TRUE))
+```
+
+Regular
+
+```{r}
+ts_base <- flights_ts %>% 
+  e_charts(x = week) %>% 
+  e_datazoom(
+    type = "slider", 
+    toolbox = FALSE,
+    bottom = -5
+  ) %>% 
+  e_tooltip() %>% 
+  e_title("Departure delays by airport") %>% 
+  e_x_axis(week, axisPointer = list(show = TRUE))
+
+ts_base %>% e_line(dep_delay)
+```
+
+Stacked
+
+```{r}
+area <- ts_base %>% e_area(dep_delay, stack = "grp")
+area
+```
+
+
+Forcasting
+
+```{r}
+history <- flights %>% 
+  filter(origin == "JFK") %>% 
+  group_by(ds = as.Date(time_hour)) %>% 
+  summarise(y = sum(dep_delay, na.rm = TRUE))
+
+# Fit a prophet model based on history & make a forecast
+model <- prophet::prophet(history)
+future <- make_future_dataframe(model, periods = 100)
+forecast <- predict(model, future)
+
+# Combine history with forecast (I'm sure this can be done more elegantly)
+combined <- bind_rows(
+  history,
+  forecast %>% 
+    mutate(ds = as.Date(ds)) %>% # prophet returns a different date format
+    anti_join(history, by = "ds")
+) %>% select(ds, y, yhat, yhat_upper, yhat_lower)
+```
+
+```{r}
+combined %>% 
+  e_charts(x = ds) %>% 
+  e_line(y, symbol = "none", name = "History", legend = FALSE)  %>% 
+  e_line(yhat, symbol = "none", name = "Prediction", legend = FALSE)  %>% 
+  e_band(
+    min = yhat_lower, 
+    max = yhat_upper,
+    name = c("Lower bound", "Upper bound"),
+    areaStyle = list(
+      list(color = "#a5e7f0"), 
+      list(color = "#a5e7f0")
+    )
+  ) %>% 
+  e_datazoom(
+    type = "slider", 
+    toolbox = FALSE,
+    bottom = -5
+  ) %>% 
+  e_title("Prediction of future departure delays") %>% 
+  e_tooltip() %>% 
+  e_x_axis(ds, axisPointer = list(show = TRUE))
+```
+
+Word cloud generation
+
+```{r}
+tf <- flights %>% 
+  count(dest, sort = TRUE) %>% 
+  head(50)
+
+tf %>% 
+  e_color_range(n, color, colors = c("#59c4e6", "#edafda")) %>% 
+  e_charts() %>% 
+  e_cloud(
+    word = dest, 
+    freq = n, 
+    color = color, 
+    shape = "circle",
+    rotationRange = c(0, 0),
+    sizeRange = c(8, 100)
+  ) %>% 
+  e_tooltip() %>% 
+  e_title("Flight destinations")
+```
+

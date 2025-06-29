@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IABMAS | Hamed Mehranfar</title>
+    <link>https://hamedmehranfar.github.io/tag/iabmas/</link>
+      <atom:link href="https://hamedmehranfar.github.io/tag/iabmas/index.xml" rel="self" type="application/rss+xml" />
+    <description>IABMAS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hamedmehranfar.github.io/media/icon_hua6ea50ac1e7d6c97b2bdc61d61b09274_89624_512x512_fill_lanczos_center_3.png</url>
+      <title>IABMAS</title>
+      <link>https://hamedmehranfar.github.io/tag/iabmas/</link>
+    </image>
+    
+    <item>
+      <title>IABMAS 2024</title>
+      <link>https://hamedmehranfar.github.io/talk/iabmas-2024/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://hamedmehranfar.github.io/talk/iabmas-2024/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;OpenStreetMap with Leaflet&lt;/title&gt;
+    &lt;meta charset=&#34;utf-8&#34; /&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.css&#34; integrity=&#34;sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==&#34; crossorigin=&#34;&#34;/&gt;
+    &lt;style&gt;
+        #map {
+            height: 400px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
+    &lt;script src=&#34;https://unpkg.com/leaflet@1.4.0/dist/leaflet.js&#34; integrity=&#34;sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==&#34; crossorigin=&#34;&#34;&gt;&lt;/script&gt;
+    &lt;script&gt;
+        var map = L.map(&#39;map&#39;).setView([55.6659337, 12.5662269], 16);
+        L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, {
+            attribution: &#39;Map data © &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,
+            maxZoom: 18,
+        }).addTo(map);
+        var marker = L.marker([55.6659337, 12.5662269]).addTo(map);
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+        marker.setIcon(new L.Icon({
+            iconUrl: &#39;https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png&#39;,
+            shadowUrl: &#39;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png&#39;,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        }));
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h2 id=&#34;international-conference-bridge-maintenance-safety-and-management-iabmas&#34;&gt;International Conference Bridge Maintenance Safety and Management (IABMAS)&lt;/h2&gt;
+&lt;p&gt;I am excited to announce that I will be participating in the 12th International Conference on Bridge Maintenance, Safety and Management (IABMAS 2024) that will take place in Copenhagen, Denmark from June 24 to 28, 2024. My coalleagues and I host a &lt;a href=&#34;https://iabmas2024.dk/technical-programme/special-session&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;special session&lt;/a&gt; there. I also present a paper titled “&lt;strong&gt;Improving overviews of bridge interventions, possession windows, and costs&lt;/strong&gt;”. In this paper, we discuss how the integration of Building Information Modeling (BIM) and predictive maintenance models can be useful in bridge management.&lt;/p&gt;
+&lt;p&gt;I look forward to presenting our work at the conference and receiving feedback from the experts in the field. I am also eager to reunite with familiar researchers and getting to know the new ones who share my passion for bridge engineering.&lt;/p&gt;
+&lt;p&gt;I hope to see you in Copenhagen!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
